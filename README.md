@@ -24,6 +24,8 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <!-- C -->
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <!-- Unity -->
+  <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" width="40" height="40"/>
   <!-- Spring Boot -->
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
   <!-- Git -->
@@ -96,6 +98,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <!-- C -->
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <!-- Unity -->
+  <img src="https://img.icons8.com/ios/50/000000/unity.png" alt="Unity" width="40" height="40"/>
   <!-- Spring Boot -->
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
   <!-- Git -->
