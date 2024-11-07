@@ -1,7 +1,7 @@
 [ENG]
 # 👋 Hi, I’m @AhmetKoca32
 
-![Profile Banner](https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif)
+![Profile Banner]<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" alt="Profile Banner" width="600" height="300">
 
 ## About Me
 
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 [TR]
 # 👋 Merhaba! Ben @AhmetKoca32
 
-![Profil Banner](https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif)
+![Profil Banner]<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" alt="Profile Banner" width="600" height="300">
 
 ## Hakkımda
 
