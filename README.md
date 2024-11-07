@@ -6,7 +6,7 @@
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://icons8.com/icon/7I3BjCqe9rjG/flutter" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
