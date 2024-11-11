@@ -46,7 +46,7 @@
 
 ## About Me
 
-- 🎓 I’m a second-year Computer Engineering student.
+- 🎓 I’m a third-year Computer Engineering student.
 - 👀 I’m interested in mobile app development, web development, and game development.
 - 🌱 I’m currently learning **Flutter** for mobile development.
 - 💞️ I’m looking to collaborate on projects involving Java, Spring Boot, and Flutter.
@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hakkımda
 
-- 🎓 Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
+- 🎓 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 - 👀 Mobil uygulama geliştirme, web geliştirme ve oyun geliştirme ile ilgileniyorum.
 - 🌱 Şu anda mobil geliştirme için **Flutter** öğreniyorum.
 - 💞️ Java, Spring Boot ve Flutter içeren projelerde işbirliği yapmayı düşünüyorum.
