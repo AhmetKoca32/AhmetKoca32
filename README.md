@@ -1,7 +1,7 @@
 [ENG]
 # 👋 Hi, I’m @AhmetKoca32
 
-<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" alt="Profile Banner" width="300" height="300">
+<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" alt="Profile Banner" width="400" height="400">
 
 ## Languages and Tools:
 
