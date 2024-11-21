@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 [TR]
 # 👋 Merhaba! Ben @AhmetKoca32
 
-<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" alt="Profile Banner" width="500" height="500">
+<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" alt="Profile Banner" width="400" height="400">
 
 ## Languages and Tools:
 
