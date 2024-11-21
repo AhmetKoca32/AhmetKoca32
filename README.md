@@ -54,6 +54,7 @@
   - 📧 Email: [kocaahmetkoca32@gmail.com](mailto:kocaahmetkoca32@gmail.com)
   - 📸 Instagram: [ahmetkoca](https://www.instagram.com/ahmetkoca/)
   - 💼 LinkedIn: [Ahmet Koca](https://www.linkedin.com/in/ahmet-koca-75a995258/)
+  - 📝 Medium: [Ahmet Koca](https://medium.com/@ahmetkocaa)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals!
 
@@ -129,6 +130,7 @@ You can click the Preview link to take a look at your changes.
   - 📧 Email: [kocaahmetkoca32@gmail.com](mailto:kocaahmetkoca32@gmail.com)
   - 📸 Instagram: [ahmetkoca](https://www.instagram.com/ahmetkoca/)
   - 💼 LinkedIn: [Ahmet Koca](https://www.linkedin.com/in/ahmet-koca-75a995258/)
+  - 📝 Medium: [Ahmet Koca](https://medium.com/@ahmetkocaa)
 - 😄 Zamirler: O
 - ⚡ Eğlenceli bilgi: Yeni teknolojiler öğrenmeyi seviyorum ve sürekli gelecekteki hedeflerime doğru çalışıyorum!
 
