@@ -19,7 +19,7 @@
      height="auto" 
      align="left">
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" 
+<img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/code-coding.gif" 
      alt="Coding" 
      width="33%" 
      height="auto" 
