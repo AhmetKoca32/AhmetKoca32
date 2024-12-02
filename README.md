@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Koca+%e2%9c%a8;%f0%9f%93%9a+Mobile+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
-<img src="https://tenor.com/tr/view/game-changer-game-changers-no-code-nocode-no-code-sticker-gif-15372379029724023018" 
+<img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/game-changer-game-changers.gif" 
      alt="Coding" 
      width="33%" 
      height="auto" 
