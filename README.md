@@ -64,7 +64,21 @@
 
 ### Streak Stats (Süreklilik İstatistikleri)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=onedark" alt="ahmetkoca32" />
+<h3 align="left">Streak Stats (Süreklilik İstatistikleri)</h3>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=default" alt="Default Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=dark" alt="Dark Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=radical" alt="Radical Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=merko" alt="Merko Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=gruvbox" alt="Gruvbox Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=tokyonight" alt="Tokyo Night Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=onedark" alt="One Dark Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=cobalt" alt="Cobalt Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=synthwave" alt="Synthwave Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=highcontrast" alt="High Contrast Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=dracula" alt="Dracula Theme" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=monokai" alt="Monokai Theme" /></p>
+
 
 ## Current Projects
 
