@@ -64,9 +64,7 @@
 
 ### Streak Stats (Süreklilik İstatistikleri)
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&" alt="ahmetkoca32" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=highcontrast" alt="ahmetkoca32" />
 
 ## Current Projects
 
@@ -146,9 +144,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Süreklilik İstatistikleri
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&" alt="ahmetkoca32" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=highcontrast" alt="ahmetkoca32" />
 
 ## Mevcut Projeler
 
