@@ -43,7 +43,6 @@
   <!-- Eklemek istediğiniz diğer ikonları da buraya ekleyebilirsiniz -->
 </p>
 
-
 ## About Me
 
 - 🎓 I’m a third-year Computer Engineering student.
@@ -62,18 +61,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=chartreuse-dark)
 
-### Streak Stats (Süreklilik İstatistikleri)
+### Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=chartreuse-dark" alt="ahmetkoca32" />
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=chartreuse-dark)  
 
+### Most Used Languages 
 
-### Most Used Languages (En Çok Kullanılan Diller)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=merko)  
-
-
----
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)  
 
 
 ## Current Projects
@@ -82,10 +76,9 @@
 - **[Flutter To-Do List](https://github.com/AhmetKoca32/To-Do-List-App)**: A to-do list application built with Flutter.
 - **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A Library Management System developed using Spring Boot.
 
-<!---
-AhmetKoca32/AhmetKoca32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
 
 [TR]
 # 👋 Merhaba! Ben @AhmetKoca32
@@ -154,16 +147,16 @@ You can click the Preview link to take a look at your changes.
 
 ### Süreklilik İstatistikleri
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=chartreuse-dark" alt="ahmetkoca32" />
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=chartreuse-dark)  
+
+## En Çok Kullanılan Diller
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)  
+
 
 ## Mevcut Projeler
 
 - **[Hastane Randevu Sistemi](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: Spring Boot kullanarak geliştirilmiş bir hastane randevu sistemi.
 - **[Flutter Yapılacaklar Listesi](https://github.com/AhmetKoca32/To-Do-List-App)**: Flutter ile yapılmış bir yapılacaklar listesi uygulaması.
 - **[Kütüphane Yönetim Sistemi](https://github.com/AhmetKoca32/Library-Management-System)**: Spring Boot kullanarak geliştirilmiş bir kütüphane yönetim sistemi.
-
-<!---
-AhmetKoca32/AhmetKoca32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
