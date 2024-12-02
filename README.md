@@ -69,8 +69,8 @@
 
 ### Most Used Languages (En Çok Kullanılan Diller)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkoca32&show_icons=true&locale=en&layout=compact&theme=merko" alt="ahmetkoca32" /></p>
-<br></br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=merko)  
+
 
 ---
 
