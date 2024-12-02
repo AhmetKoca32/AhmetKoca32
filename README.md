@@ -14,7 +14,7 @@
  </a>
 </div>
 
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://github.com/AhmetKoca32/AhmetKoca32/blob/main/Banner.png)
 
 <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/game-changer-game-changers.gif" 
      alt="Coding" 
