@@ -40,47 +40,44 @@
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   <!-- Google Cloud Platform -->
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
-  <!-- Eklemek istediğiniz diğer ikonları da buraya ekleyebilirsiniz -->
 </p>
-
 
 ## About Me
 
-- 🎓 I’m a third-year Computer Engineering student.
-- 👀 I’m interested in mobile app development, web development, and game development.
-- 🌱 I’m currently learning **Flutter** for mobile development.
-- 💞️ I’m looking to collaborate on projects involving Java, Spring Boot, and Flutter.
-- 📫 How to reach me: 
+- 🎓 I’m a third-year **Computer Engineering** student.
+- 👀 I’m passionate about **mobile app development**, **web development**, and **game development**.
+- 🌱 Currently learning **Flutter** for mobile development.
+- 💞️ I’m open to collaborating on projects involving **Java**, **Spring Boot**, and **Flutter**.
+- 📫 Feel free to reach out:
   - 📧 Email: [kocaahmetkoca32@gmail.com](mailto:kocaahmetkoca32@gmail.com)
-  - 📸 Instagram: [ahmetkoca](https://www.instagram.com/ahmetkoca/)
+  - 📸 Instagram: [@ahmetkoca](https://www.instagram.com/ahmetkoca/)
   - 💼 LinkedIn: [Ahmet Koca](https://www.linkedin.com/in/ahmet-koca-75a995258/)
   - 📝 Medium: [Ahmet Koca](https://medium.com/@ahmetkocaa)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals!
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love learning new technologies and constantly strive to improve my skills for my future goals!
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=chartreuse-dark)
 
-### Streak Stats (Süreklilik İstatistikleri)
+### Streak Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=chartreuse-dark" alt="ahmetkoca32" />
 
+### Most Used Languages
 
-### Most Used Languages (En Çok Kullanılan Diller)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkoca32&show_icons=true&locale=en&layout=compact&theme=merko" alt="ahmetkoca32" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=merko" alt="AhmetKoca32's Most Used Languages" />
+</p>
 <br></br>
 
 ---
 
-
-
 ## Current Projects
 
-- **[Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: A hospital appointment system developed using Spring Boot.
-- **[Flutter To-Do List](https://github.com/AhmetKoca32/To-Do-List-App)**: A to-do list application built with Flutter.
-- **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A Library Management System developed using Spring Boot.
+- **[Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: A hospital appointment system developed using **Spring Boot**.
+- **[Flutter To-Do List](https://github.com/AhmetKoca32/To-Do-List-App)**: A simple to-do list application built with **Flutter**.
+- **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A library management system created with **Spring Boot**.
 
 <!---
 AhmetKoca32/AhmetKoca32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -129,41 +126,43 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   <!-- Google Cloud Platform -->
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
-  <!-- Eklemek istediğiniz diğer ikonları da buraya ekleyebilirsiniz -->
 </p>
-
-
 
 ## Hakkımda
 
-- 🎓 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
-- 👀 Mobil uygulama geliştirme, web geliştirme ve oyun geliştirme ile ilgileniyorum.
-- 🌱 Şu anda mobil geliştirme için **Flutter** öğreniyorum.
-- 💞️ Java, Spring Boot ve Flutter içeren projelerde işbirliği yapmayı düşünüyorum.
-- 📫 Bana ulaşmak için: 
-  - 📧 Email: [kocaahmetkoca32@gmail.com](mailto:kocaahmetkoca32@gmail.com)
-  - 📸 Instagram: [ahmetkoca](https://www.instagram.com/ahmetkoca/)
+- 🎓
+
+ **Bilgisayar Mühendisliği** 3. sınıf öğrencisiyim.
+- 👀 **Mobil uygulama geliştirme**, **web geliştirme** ve **oyun geliştirme** konularına ilgi duyuyorum.
+- 🌱 Şu anda **Flutter** öğreniyorum ve mobil uygulama geliştirme konusunda deneyim kazanmaya çalışıyorum.
+- 💞️ **Java**, **Spring Boot** ve **Flutter** ile proje geliştirme fırsatlarına açığım.
+- 📫 Benimle iletişime geçebilirsiniz:
+  - 📧 E-posta: [kocaahmetkoca32@gmail.com](mailto:kocaahmetkoca32@gmail.com)
+  - 📸 Instagram: [@ahmetkoca](https://www.instagram.com/ahmetkoca/)
   - 💼 LinkedIn: [Ahmet Koca](https://www.linkedin.com/in/ahmet-koca-75a995258/)
   - 📝 Medium: [Ahmet Koca](https://medium.com/@ahmetkocaa)
-- 😄 Zamirler: O
-- ⚡ Eğlenceli bilgi: Yeni teknolojiler öğrenmeyi seviyorum ve sürekli gelecekteki hedeflerime doğru çalışıyorum!
+- 😄 Zamansız bir şekilde yenilikçi teknolojiler öğrenmeyi ve bu bilgileri projelerimde kullanmayı seviyorum!
 
 ## GitHub İstatistiklerim
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=chartreuse-dark)
 
-### Süreklilik İstatistikleri
+### Streak İstatistikleri
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=chartreuse-dark" alt="ahmetkoca32" />
 
-## Mevcut Projeler
+### En Çok Kullanılan Diller
 
-- **[Hastane Randevu Sistemi](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: Spring Boot kullanarak geliştirilmiş bir hastane randevu sistemi.
-- **[Flutter Yapılacaklar Listesi](https://github.com/AhmetKoca32/To-Do-List-App)**: Flutter ile yapılmış bir yapılacaklar listesi uygulaması.
-- **[Kütüphane Yönetim Sistemi](https://github.com/AhmetKoca32/Library-Management-System)**: Spring Boot kullanarak geliştirilmiş bir kütüphane yönetim sistemi.
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=merko" alt="AhmetKoca32's Most Used Languages" />
+</p>
+<br></br>
 
-<!---
-AhmetKoca32/AhmetKoca32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+## Güncel Projelerim
+
+- **[Hastane Randevu Sistemi](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: **Spring Boot** ile geliştirilmiş bir hastane randevu sistemi.
+- **[Flutter To-Do List](https://github.com/AhmetKoca32/To-Do-List-App)**: **Flutter** ile geliştirilmiş basit bir yapılacaklar listesi uygulaması.
+- **[Kütüphane Yönetim Sistemi](https://github.com/AhmetKoca32/Library-Management-System)**: **Spring Boot** ile geliştirilmiş bir kütüphane yönetim sistemi.
+```
