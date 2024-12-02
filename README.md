@@ -25,7 +25,7 @@
      height="auto" 
      align="right">
 
-<img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/hello-world-seytonic.gif" 
+<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" 
      alt="Profile Banner" 
      width="34%" 
      height="auto" 
