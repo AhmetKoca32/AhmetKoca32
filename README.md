@@ -62,6 +62,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=radical)
 
+### Streak Stats (Süreklilik İstatistikleri)
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&" alt="ahmetkoca32" />
+</p>
+
 ## Current Projects
 
 - **[Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: A hospital appointment system developed using Spring Boot.
@@ -137,6 +143,12 @@ You can click the Preview link to take a look at your changes.
 ## GitHub İstatistiklerim
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=radical)
+
+### Süreklilik İstatistikleri
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&" alt="ahmetkoca32" />
+</p>
 
 ## Mevcut Projeler
 
