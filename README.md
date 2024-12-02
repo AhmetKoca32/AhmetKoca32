@@ -2,7 +2,6 @@
 
 <img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" alt="Profile Banner" width="400" height="400">
 
----
 
 ## 🔧 Languages and Tools
 <p align="left">
@@ -25,7 +24,6 @@
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" title="Google Cloud Platform" width="40" height="40"/>
 </p>
 
----
 
 ## 📖 About Me
 - 🎓 **Third-year Computer Engineering student**
@@ -39,7 +37,6 @@
   - 📝 [Medium](https://medium.com/@ahmetkocaa)
 - 😄 **Fun fact**: I love learning cutting-edge technologies and applying them to real-world projects!
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -51,14 +48,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages"/>
 </p>
 
----
 
 ## 🚀 Current Projects
 - **[Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: A hospital appointment system developed using **Spring Boot**
 - **[Flutter To-Do List](https://github.com/AhmetKoca32/To-Do-List-App)**: A simple to-do list application built with **Flutter**
 - **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A library management system created with **Spring Boot**
 
----
 
 <!---
 AhmetKoca32/AhmetKoca32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
