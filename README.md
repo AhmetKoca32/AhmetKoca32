@@ -30,7 +30,7 @@
      alt="Profile Banner" 
      width="400" 
      height="400" 
-     style="border-radius: 50; display: block; margin: 0 auto;">
+     style="border-radius: 50%; display: block; margin: 0 auto;">
 
 
 
