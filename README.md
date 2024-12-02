@@ -67,7 +67,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=chartreuse-dark" alt="ahmetkoca32" />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkoca32&show_icons=true&locale=en&layout=compact" alt="ahmetkoca32" />
+### Most Used Languages (En Çok Kullanılan Diller)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetkoca32&show_icons=true&locale=en&layout=compact&theme=merko" alt="ahmetkoca32" /></p>
+
+---
+
 
 
 ## Current Projects
