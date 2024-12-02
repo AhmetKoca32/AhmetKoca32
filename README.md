@@ -20,14 +20,13 @@
     <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/game-changer-game-changers.gif" 
          alt="Coding" 
          width="33%" 
-         height="auto">
-</div>
-
-<div align="center">
+         height="auto" 
+         style="display: inline-block;">
     <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/code-coding.gif" 
          alt="Coding" 
          width="33%" 
-         height="auto">
+         height="auto" 
+         style="display: inline-block;">
 </div>
 
 ---
