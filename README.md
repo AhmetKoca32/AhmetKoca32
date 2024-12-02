@@ -8,7 +8,7 @@
 [ENG]
 # 👋 Hi, I’m @AhmetKoca32
 
-<img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/Banner.png" alt="Profile Banner" width="400" height="400">
+<img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/Banner.png" alt="Profile Banner" >
 
 ## Languages and Tools:
 
