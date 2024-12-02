@@ -16,24 +16,19 @@
 
 ![MasterHead](https://github.com/AhmetKoca32/AhmetKoca32/blob/main/Banner.png)
 
-<img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/game-changer-game-changers.gif" 
-     alt="Coding" 
-     width="33%" 
-     height="auto" 
-     align="left">
+<div align="center">
+    <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/game-changer-game-changers.gif" 
+         alt="Coding" 
+         width="33%" 
+         height="auto">
+</div>
 
-<img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/code-coding.gif" 
-     alt="Coding" 
-     width="33%" 
-     height="auto" 
-     align="right">
-
-<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" 
-     alt="Profile Banner" 
-     width="34%" 
-     height="auto" 
-     align="center">
-
+<div align="center">
+    <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/code-coding.gif" 
+         alt="Coding" 
+         width="33%" 
+         height="auto">
+</div>
 
 ---
 
