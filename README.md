@@ -28,14 +28,14 @@
      height="auto" 
      align="right">
 
-<img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" 
+<img src="" 
      alt="Profile Banner" 
      width="34%" 
      height="auto" 
      align="center">
 
 
-
+---
 
 ## Languages and Tools:
 
