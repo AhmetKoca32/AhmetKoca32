@@ -4,8 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake.svg">
 </picture>
 
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 
-[ENG]
 # 👋 Hi, I’m @AhmetKoca32
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
