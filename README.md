@@ -13,19 +13,19 @@
 </div>
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub%20Mascot%20Cat%20Ears.gif" 
      alt="Coding" 
-     width="45%" 
+     width="33%" 
      height="auto" 
      align="left">
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" 
      alt="Coding" 
-     width="45%" 
+     width="33%" 
      height="auto" 
      align="right">
 
 <img src="https://github.com/AhmetKoca32/PersonalPortfolio/blob/main/1713706264886.jfif" 
      alt="Profile Banner" 
-     width="50%" 
+     width="34%" 
      height="auto" 
      align="center">
 
