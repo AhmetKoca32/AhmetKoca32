@@ -64,7 +64,7 @@
 
 ### Streak Stats (Süreklilik İstatistikleri)
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkoca32&theme=merko" alt="ahmetkoca32" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=merko" alt="ahmetkoca32" />
 
 
 ## Current Projects
