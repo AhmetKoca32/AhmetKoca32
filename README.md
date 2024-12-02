@@ -60,7 +60,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=merko)
 
 ### Streak Stats (Süreklilik İstatistikleri)
 
@@ -141,11 +141,11 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub İstatistiklerim
 
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=radical)
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=merko)
 
 ### Süreklilik İstatistikleri
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=highcontrast" alt="ahmetkoca32" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=merko" alt="ahmetkoca32" />
 
 ## Mevcut Projeler
 
