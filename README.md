@@ -88,9 +88,9 @@
   </a>
   <!-- Medium -->
   <a href="https://medium.com/@ahmetkocaa" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="blue">
-      <path d="M22.26 6.58l-.05-.06-.04-.06a.48.48 0 00-.33-.12H19.4a.7.7 0 00-.38.14L15.5 9.73l3.56 4.62 4.11-6.78a.45.45 0 00-.06-.57l-.1-.12-.03-.04-.02-.05zM15.16 12.3L11.6 7.7a.54.54 0 00-.28-.2H2.33a.52.52 0 00-.2.1l-.02.02-.02.02-.03.03-.04.05-.01.03a.52.52 0 00-.07.2v8.64c0 .1.03.18.08.24l4.44 4.44c.05.05.13.08.2.08.05 0 .12-.02.18-.07h5.86c.1-.02.17-.07.22-.14l6.2-8.8zm-6.55 7.95h-2.3l-3.65-3.65V8.05l3.62 4.7v3.5L8.6 16v3.9z"/>
-    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0,0,256,256">
+<g fill="#dcd8ff" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.12,5.12)"><path d="M3,6l4,5.0918v24.19336l-6,7.71484h14l-6,-7.71484v-21.53516l13,29.25l-0.00195,0.01367l12.00195,-29.46875v25.45508l-4,4h17l-4,-4l-0.02734,-28.49609l3.89063,-4.49023h-12.01758l-9.24023,22.73047l-10.10937,-22.74414z"></path></g></g>
+</svg>
   </a>
 </p>
 
