@@ -88,7 +88,7 @@
   </a>
   <!-- Medium -->
   <a href="https://medium.com/@ahmetkocaa" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" width="40" height="40"/>
+    <img src="https://www.flaticon.com/free-icons/medium" alt="Medium" width="40" height="40"/> <a href="https://www.flaticon.com/free-icons/medium"
   </a>
 </p>
 
