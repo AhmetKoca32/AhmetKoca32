@@ -71,17 +71,34 @@
   <!-- Eklemek istediğiniz diğer ikonları da buraya ekleyebilirsiniz -->
 </p>
 
+## How to Reach Me
+
+<p align="left">
+  <!-- Email -->
+  <a href="mailto:kocaahmetkoca32@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ahmet-koca-75a995258/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ahmetkoca/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <!-- Medium -->
+  <a href="https://medium.com/@ahmetkocaa" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" width="40" height="40"/>
+  </a>
+</p>
+
+
 ## About Me
 
 - 🎓 I’m a third-year Computer Engineering student.
 - 👀 I’m interested in mobile app development, web development, and game development.
 - 🌱 I’m currently learning **Flutter** for mobile development.
 - 💞️ I’m looking to collaborate on projects involving Java, Spring Boot, and Flutter.
-- 📫 How to reach me: 
-  - 📧 Email: [kocaahmetkoca32@gmail.com](mailto:kocaahmetkoca32@gmail.com)
-  - 📸 Instagram: [ahmetkoca](https://www.instagram.com/ahmetkoca/)
-  - 💼 LinkedIn: [Ahmet Koca](https://www.linkedin.com/in/ahmet-koca-75a995258/)
-  - 📝 Medium: [Ahmet Koca](https://medium.com/@ahmetkocaa)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals!
 
