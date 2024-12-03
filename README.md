@@ -71,8 +71,7 @@
   <!-- Eklemek istediğiniz diğer ikonları da buraya ekleyebilirsiniz -->
 </p>
 
-## How to Reach Me
-
+## Connect With Me
 <p align="left">
   <!-- Email -->
   <a href="mailto:kocaahmetkoca32@gmail.com" target="_blank">
@@ -88,7 +87,7 @@
   </a>
   <!-- Medium -->
   <a href="https://medium.com/@ahmetkocaa" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077ff/medium-monogram.png" alt="Medium" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/0077ff/medium-monogram.png" alt="Medium" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
 
