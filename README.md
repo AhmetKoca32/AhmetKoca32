@@ -88,7 +88,9 @@
   </a>
   <!-- Medium -->
   <a href="https://medium.com/@ahmetkocaa" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=117115&format=png&color=000000" alt="Medium" width="40" height="40"/> <a href="https://www.flaticon.com/free-icons/medium"
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="blue">
+      <path d="M22.26 6.58l-.05-.06-.04-.06a.48.48 0 00-.33-.12H19.4a.7.7 0 00-.38.14L15.5 9.73l3.56 4.62 4.11-6.78a.45.45 0 00-.06-.57l-.1-.12-.03-.04-.02-.05zM15.16 12.3L11.6 7.7a.54.54 0 00-.28-.2H2.33a.52.52 0 00-.2.1l-.02.02-.02.02-.03.03-.04.05-.01.03a.52.52 0 00-.07.2v8.64c0 .1.03.18.08.24l4.44 4.44c.05.05.13.08.2.08.05 0 .12-.02.18-.07h5.86c.1-.02.17-.07.22-.14l6.2-8.8zm-6.55 7.95h-2.3l-3.65-3.65V8.05l3.62 4.7v3.5L8.6 16v3.9z"/>
+    </svg>
   </a>
 </p>
 
