@@ -87,7 +87,7 @@
   </a>
   <!-- Medium -->
   <a href="https://medium.com/@ahmetkocaa" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077ff/medium-monogram.png" alt="Medium" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/medium%20(2).png" alt="Medium" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
 
