@@ -14,7 +14,7 @@
  </a>
 </div>
 
-![MasterHead](https://github.com/AhmetKoca32/AhmetKoca32/blob/main/Banner.png)
+![MasterHead](https://github.com/AhmetKoca32/AhmetKoca32/blob/main/Banner2.png)
 
 <div align="center">
     <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/game-changer-game-changers.gif" 
