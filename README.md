@@ -88,11 +88,7 @@
   </a>
   <!-- Medium -->
   <a href="https://medium.com/@ahmetkocaa" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0 0 256 256">
-      <g fill="#0077ff">
-        <path d="M3,6l4,5.0918v24.19336l-6,7.71484h14l-6,-7.71484v-21.53516l13,29.25l-0.00195,0.01367l12.00195,-29.46875v25.45508l-4,4h17l-4,-4l-0.02734,-28.49609l3.89063,-4.49023h-12.01758l-9.24023,22.73047l-10.10937,-22.74414z"></path>
-      </g>
-    </svg>
+    <img src="https://img.icons8.com/ios-filled/50/0077ff/medium-monogram.png" alt="Medium" width="40" height="40"/>
   </a>
 </p>
 
