@@ -109,7 +109,7 @@
 
 ### Streak Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=chartreuse-dark)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmetKoca32&theme=highcontrast)  
 
 ### Most Used Languages 
 
