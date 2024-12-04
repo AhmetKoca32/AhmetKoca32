@@ -113,7 +113,7 @@
 
 ### Most Used Languages 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)  
+![Most Used Languages ](https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)  
 
 
 ## Current Projects
