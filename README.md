@@ -115,6 +115,8 @@
 ### Most Used Languages 
 
 ![Most Used Languages ](https://github-readme-stats.vercel.app/api/top-langs?username=AhmetKoca32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKoca32&langs_count=5&layout=compact&theme=chartreuse-dark&custom_title=Languages&hide=css,html,java)
+
 
 
 ## Current Projects
