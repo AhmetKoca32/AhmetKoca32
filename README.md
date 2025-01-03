@@ -124,7 +124,7 @@
 
 - **[Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: A hospital appointment system developed using Spring Boot.
 - **[Flutter To-Do List](https://github.com/AhmetKoca32/To-Do-List-App)**: A to-do list application built with Flutter.
-- **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A Library Management System developed using Spring Boot.
+- **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A Library Management System developed using Jframe.
 
 
 
