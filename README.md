@@ -101,7 +101,7 @@
 - 🌱 I’m currently learning **Flutter** for mobile development.
 - 💞️ I’m looking to collaborate on projects involving Java, Spring Boot, and Flutter.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals!
+- ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals !
 
 ## GitHub Stats
 
