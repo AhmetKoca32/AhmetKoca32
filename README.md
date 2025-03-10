@@ -123,8 +123,9 @@
 ## Current Projects
 
 - **[Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: A hospital appointment system developed using Spring Boot.
-- **[Flutter To-Do List](https://github.com/AhmetKoca32/To-Do-List-App)**: A to-do list application built with Flutter.
+- **[Veresiye-Defteri](https://github.com/AhmetKoca32/Veresiye-Defteri)**: A cross-platform app for managing personal credit records, built with Flutter and Firebase.
 - **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A Library Management System developed using Jframe.
+- **[backend-to-deployment](https://github.com/AhmetKoca32/backend-to-deployment)**: A FastAPI backend guide covering API creation, async programming, CRUD, JWT authentication, and deployment with Docker and Google Cloud.
 
 
 
