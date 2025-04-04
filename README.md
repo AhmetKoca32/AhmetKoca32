@@ -38,6 +38,32 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
   <!-- Dart -->
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
+  <!-- Firebase -->
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+  <!-- Docker -->
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  <!-- Google Cloud Platform -->
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
+  <!-- Git -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <!-- MySQL -->
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+  <!-- FastAPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <!-- GraphQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
+  <!-- Kubernates -->
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+  <!-- Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  <!-- Celery -->
+  <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="RabbitMQ" width="40" height="40"/>
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <!-- Android (Java) -->
@@ -56,34 +82,8 @@
   <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40" height="40"/>
   <!-- Spring Boot -->
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <!-- MySQL -->
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  <!-- PostgreSQL -->
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <!-- Firebase -->
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-  <!-- Docker -->
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-  <!-- Google Cloud Platform -->
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
-  <!-- FastAPI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <!-- GraphQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-  <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
-  <!-- Flask -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
-  <!-- Kubernates -->
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
-  <!-- Redis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <!-- Celery -->
-  <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="RabbitMQ" width="40" height="40"/>
-  <!-- Eklemek istediğiniz diğer ikonları da buraya ekleyebilirsiniz -->
 </p>
+
 
 ## Connect With Me
 <p align="left">
