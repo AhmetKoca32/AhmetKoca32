@@ -49,7 +49,7 @@
   <!-- MySQL -->
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   <!-- SQLite -->
-  <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/000000/sqlite.png" alt="SQLite" width="40" height="40"/>
   <!-- PostgreSQL -->
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   <!-- FastAPI -->
@@ -65,7 +65,7 @@
   <!-- Redis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   <!-- Celery -->
-  <img src="https://img.icons8.com/color/48/000000/rabbitmq.png" alt="RabbitMQ" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/celery.png" alt="Celery" width="40" height="40"/>
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <!-- Android (Java) -->
