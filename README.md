@@ -70,10 +70,10 @@
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <!-- REST API - Temsili olarak API ikonu -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-api-web-development-flat-flat-juicy-fish.png" alt="REST API" width="40" height="40"/>
-  <!-- WebSocket - Temsili olarak bir bağlantı ikonu -->
-  <img src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-connection-technology-outline-outline-juicy-fish.png" alt="WebSocket" width="40" height="40"/>
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
   <!-- Eklemek istediğiniz diğer ikonları da buraya ekleyebilirsiniz -->
 </p>
 
