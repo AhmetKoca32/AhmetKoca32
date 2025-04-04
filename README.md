@@ -104,8 +104,8 @@
   </a>
   <!-- Medium -->
   <a href="https://medium.com/@ahmetkocaa" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/medium-monogram--v1.png" alt="Medium" width="40" height="40" style="background-color: black; padding: 5px; border-radius: 5px;"/>
-  </a>
+  <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" alt="Medium" width="40" height="40"/>
+</a>
 </p>
 
 
