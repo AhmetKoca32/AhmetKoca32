@@ -73,7 +73,7 @@
   <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/> 
   <!-- Flask -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.png" alt="Flask" width="40" height="40"/>
   <!-- Eklemek istediğiniz diğer ikonları da buraya ekleyebilirsiniz -->
 </p>
 
