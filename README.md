@@ -38,6 +38,8 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
   <!-- Dart -->
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Dart" width="40" height="40"/>
   <!-- Firebase -->
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
   <!-- Docker -->
