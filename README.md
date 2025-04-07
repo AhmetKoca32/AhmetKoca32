@@ -107,7 +107,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   <!-- Medium -->
 <a href="https://medium.com/@ahmetkocaa" target="_blank">
-  <img src="image.png" alt="Medium" width="40" height="40"/>
+  <img src="medium.png" alt="Medium" width="40" height="40"/>
 </a>
 
 </p>
