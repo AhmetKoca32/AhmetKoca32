@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+  ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake-dark.svg">
@@ -105,11 +105,11 @@
   <!-- Instagram -->
   <a href="https://www.instagram.com/ahmetkoca/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>
   <!-- Medium -->
-  <a href="https://medium.com/@ahmetkocaa" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" alt="Medium" width="40" height="40"/>
+<a href="https://medium.com/@ahmetkocaa" target="_blank">
+  <img src="image.png" alt="Medium" width="40" height="40"/>
 </a>
+
 </p>
 
 
