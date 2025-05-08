@@ -93,7 +93,7 @@
 ## Connect With Me
 <p align="left">
   <!-- Email -->
-  <a href="mailto:kocaahmetkoca32@gmail.com" target="_blank">
+  <a href="mailto:kocaahmetkoca32@gmail.com"  target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
   <!-- LinkedIn -->
