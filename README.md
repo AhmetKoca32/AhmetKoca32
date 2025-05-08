@@ -1,25 +1,4 @@
-# Ahmet Koca 👨‍💻
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%f0%9f%93%9a+Mobile+Developer+%f0%9f%92%bb;%f0%9f%92%bb+Full+Stack+Developer;%f0%9f%93%9a+Computer+Engineering+Student" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="Banner2.png" alt="Banner" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmetKoca32&color=blue&style=flat-square" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/ahmet-koca-75a995258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kocaahmetkoca32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://medium.com/@ahmetkocaa">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
+![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake-dark.svg">
@@ -27,86 +6,140 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🚀 About Me
-
-- 🎓 Third-year Computer Engineering student
-- 💻 Passionate about mobile app development, web development, and game development
-- 🌱 Currently mastering **Flutter** for mobile development
-- 🤝 Open to collaborate on Java, Spring Boot, and Flutter projects
-- ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals!
-
-## 🛠️ Tech Stack
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKoca32&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6" alt="Most Used Languages" width="48%"/>
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Koca+%e2%9c%a8;%f0%9f%93%9a+Mobile+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
 </div>
 
+![MasterHead](https://github.com/AhmetKoca32/AhmetKoca32/blob/main/Banner2.png)
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AhmetKoca32&theme=chartreuse-dark&hide_border=true" alt="Streak Stats" width="48%"/>
+    <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/game-changer-game-changers.gif" 
+         alt="Coding" 
+         width="33%" 
+         height="auto" 
+         style="display: inline-block;">
+    <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/code-coding.gif" 
+         alt="Coding" 
+         width="33%" 
+         height="auto" 
+         style="display: inline-block;">
 </div>
 
-## 🚀 Featured Projects
+---
 
-### [STING: TÜBİTAK 1001 Project](https://github.com/tubitaksting)
-- A TÜBİTAK 1001 project developed at Süleyman Demirel University
-- PI: Dr. Utku KOSE
+## Languages and Tools:
 
-### [Veresiye-Defteri](https://github.com/AhmetKoca32/Veresiye-Defteri)
-- Cross-platform app for managing personal credit records
-- Built with Flutter and Firebase
-- Features real-time synchronization and offline support
+<p align="left">
+  <!-- Flutter -->
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
+  <!-- Dart -->
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Dart" width="40" height="40"/>
+  <!-- Firebase -->
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
+  <!-- Docker -->
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  <!-- Google Cloud Platform -->
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
+  <!-- Git -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <!-- MySQL -->
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <!-- SQLite -->
+  <img src="https://img.icons8.com/ios/50/000000/sqlite.png" alt="SQLite" width="40" height="40"/>
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+  <!-- FastAPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <!-- GraphQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <!-- Django Rest Framework-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="Django" width="40" height="40"/>
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
+  <!-- Kubernetes -->
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+  <!-- Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  <!-- Celery -->
+  <img src="https://img.icons8.com/color/48/000000/celery.png" alt="Celery" width="40" height="40"/>
+  <!-- Java -->
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  <!-- Android (Java) -->
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/>
+  <!-- HTML -->
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  <!-- CSS -->
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <!-- C -->
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  <!-- Unity -->
+  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40" height="40"/>
+  <!-- Spring Boot -->
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
+</p>
 
-### [Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)
-- Spring Boot-based hospital appointment management system
-- Features appointment scheduling, patient management, and doctor availability
-
-### [Backend-to-Deployment](https://github.com/AhmetKoca32/backend-to-deployment)
-- Comprehensive FastAPI backend guide
-- Covers API creation, async programming, CRUD operations
-- Includes JWT authentication and deployment with Docker and Google Cloud
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:kocaahmetkoca32@gmail.com">
+## Connect With Me
+<p align="left">
+  <!-- Email -->
+  <a href="mailto:kocaahmetkoca32@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmet-koca-75a995258/">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ahmet-koca-75a995258/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/ahmetkoca/">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ahmetkoca/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://medium.com/@ahmetkocaa">
-    <img src="medium.png" alt="Medium" width="40" height="40"/>
-  </a>
-</div>
+  <!-- Medium -->
+<a href="https://medium.com/@ahmetkocaa" target="_blank">
+  <img src="medium.png" alt="Medium" width="40" height="40"/>
+</a>
+
+</p>
+
+## About Me
+
+- 🎓 I'm a third-year Computer Engineering student.
+- 👀 I'm interested in mobile app development, web development, and game development.
+- 🌱 I'm currently learning **Flutter** for mobile development.
+- 💞️ I'm looking to collaborate on projects involving Java, Spring Boot, and Flutter.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals!
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=chartreuse-dark)
+
+### Streak Stats
+
+![Streak Stats](https://streak-stats.demolab.com/?user=AhmetKoca32&theme=chartreuse-dark)
+
+
+### Most Used Languages 
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKoca32&langs_count=5&layout=compact&theme=chartreuse-dark&custom_title=Languages&hide=c%23)
+
+## Current Projects
+
+- **[STING: A TÜBİTAK 1001 Project](https://github.com/tubitaksting)**: A TÜBİTAK 1001 project, developed at Süleyman Demirel University, Turkey. PI: Dr. Utku KOSE.
+- **[Konwoy - New Startup](#)**: A new startup venture focused on [brief description of the project]. (Repository is private)
+- **[backend-to-deployment](https://github.com/AhmetKoca32/backend-to-deployment)**: A FastAPI backend guide covering API creation, async programming, CRUD, JWT authentication, and deployment with Docker and Google Cloud.
+- **[Veresiye-Defteri](https://github.com/AhmetKoca32/Veresiye-Defteri)**: A cross-platform app for managing personal credit records, built with Flutter and Firebase.
+- **[Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: A hospital appointment system developed using Spring Boot.
+- **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A Library Management System developed using Jframe.
 
 
 
