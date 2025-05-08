@@ -136,10 +136,9 @@
 
 - **[STING: A TÜBİTAK 1001 Project](https://github.com/tubitaksting)**: A TÜBİTAK 1001 project, developed at Süleyman Demirel University, Turkey. PI: Dr. Utku KOSE.
 - **[Konwoy - New Startup](#)**: A new startup venture focused on [brief description of the project]. (Repository is private)
-- **[backend-to-deployment](https://github.com/AhmetKoca32/backend-to-deployment)**: A FastAPI backend guide covering API creation, async programming, CRUD, JWT authentication, and deployment with Docker and Google Cloud.
-- **[Veresiye-Defteri](https://github.com/AhmetKoca32/Veresiye-Defteri)**: A cross-platform app for managing personal credit records, built with Flutter and Firebase.
-- **[Hospital Appointment System](https://github.com/AhmetKoca32/Hospital-Appointment-System)**: A hospital appointment system developed using Spring Boot.
-- **[Library Management System](https://github.com/AhmetKoca32/Library-Management-System)**: A Library Management System developed using Jframe.
+- **[FastAPI Template Project](https://github.com/AhmetKoca32/fastapi-template-project)**: A robust template for building REST APIs with FastAPI, featuring JWT authentication, async CRUD operations, SQLAlchemy ORM, Pydantic validation, Swagger docs, and modular architecture.
+- **[EcoTale - Interactive Storytelling App](#)**: A web-based storytelling application designed to raise environmental awareness in children aged 5–12 through AI-generated, age-appropriate stories. Uses Gemini API for dynamic content generation, Google Cloud TTS for narration, and Three.js for animated interactions. Developed with HTML, CSS, JavaScript, and Flask.
+
 
 
 
