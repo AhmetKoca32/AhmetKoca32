@@ -132,7 +132,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKoca32&langs_count=5&layout=compact&theme=chartreuse-dark&custom_title=Languages&hide=c%23)
 
-## Current Projects
+## Current Projects  
 
 - **[STING: A TÜBİTAK 1001 Project](https://github.com/tubitaksting)**: A TÜBİTAK 1001 project, developed at Süleyman Demirel University, Turkey. PI: Dr. Utku KOSE.
 - **[Konwoy - New Startup](#)**: A new startup venture focused on [brief description of the project]. (Repository is private)
