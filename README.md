@@ -107,6 +107,10 @@
 <a href="https://medium.com/@ahmetkocaa" target="_blank">
   <img src="medium.png" alt="Medium" width="40" height="40"/>
 </a>
+<!-- Portfolio -->
+<a href="https://ahmetkoca.vercel.app" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="40" height="40"/>
+</a>
 
 </p>
 
