@@ -140,8 +140,10 @@
 
 - **[STING: A TÜBİTAK 1001 Project](https://github.com/tubitaksting)**: A TÜBİTAK 1001 project, developed at Süleyman Demirel University, Turkey. PI: Dr. Utku KOSE.
 - **[Konwoy - New Startup](#)**: A new startup venture focused on [brief description of the project]. (Repository is private)
-- **[FastAPI Template Project](https://github.com/AhmetKoca32/fastapi-template-project)**: A robust template for building REST APIs with FastAPI, featuring JWT authentication, async CRUD operations, SQLAlchemy ORM, Pydantic validation, Swagger docs, and modular architecture.
-- **[EcoTale - Interactive Storytelling App](#)**: A web-based storytelling application designed to raise environmental awareness in children aged 5–12 through AI-generated, age-appropriate stories. Uses Gemini API for dynamic content generation, Google Cloud TTS for narration, and Three.js for animated interactions. Developed with HTML, CSS, JavaScript, and Flask.
+- **[EcoTale - Interactive Storytelling App](https://github.com/AhmetKoca32/EcoTale)**: A web-based storytelling application designed to raise environmental awareness in children aged 5–12 through AI-generated, age-appropriate stories. Uses Gemini API for dynamic content generation, Google Cloud TTS for narration, and Three.js for animated interactions. Developed with HTML, CSS, JavaScript, and Flask.
+- **[DermaScope - AI-Powered Skin & Hair Analysis App](https://github.com/AhmetKoca32/AI-180)**: A mobile health technology solution developed during the Artificial Intelligence and Technology Academy Bootcamp. It provides AI-powered preliminary diagnosis, personalized care recommendations, and health tracking by analyzing users' skin and hair images.
+- **[Stayzi - Airbnb-like Accommodation Platform](https://github.com/AhmetKoca32/Stayzi)**: A full-stack mobile accommodation platform for property rentals. The cross-platform app is built with Flutter, supported by a high-performance FastAPI backend using PostgreSQL, Redis, and RabbitMQ, and containerized with Docker.
+- **[Shoplytic - AI Agent E-Commerce Platform](https://github.com/AhmetKoca32/BtkAkademi-Hackathon-2025)**: An intelligent e-commerce platform that generates personalized mind maps and product recommendations from user life situations. Built with Flutter and an AI-native backend using FastAPI, LangGraph, and LangChain to orchestrate specialized agents, it also features a unique consumer rights support module.
 
 
 
