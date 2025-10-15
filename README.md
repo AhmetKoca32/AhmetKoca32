@@ -116,10 +116,12 @@
 
 ## About Me
 
-- 🎓 I'm a third-year Computer Engineering student.
-- 👀 I'm interested in mobile app development, web development, and game development.
-- 🌱 I'm currently learning **Flutter** for mobile development.
-- 💞️ I'm looking to collaborate on projects involving Java, Spring Boot, and Flutter.
+- 🎓 I'm a fourth-year Computer Engineering student.
+- 🎯 My primary focus is mobile development with **Flutter**, but I am also proficient in web development.
+- 💞️ I'm looking to collaborate on projects involving:
+    - **Mobile:** Flutter
+    - **Backend:** Python, REST API, gRPC
+    - **Data Science & AI:** Data Analysis, Machine Learning (ML)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals!
 
