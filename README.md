@@ -45,7 +45,7 @@
   <!-- Docker -->
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   <!-- Google Cloud Platform -->
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
+  <!--img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
   <!-- Git -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <!-- MySQL -->
@@ -65,15 +65,15 @@
   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
   <!-- Kubernetes -->
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+  <!--img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
   <!-- Redis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   <!-- Celery -->
   <img src="https://img.icons8.com/color/48/000000/celery.png" alt="Celery" width="40" height="40"/>
   <!-- Java -->
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  <!--img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <!-- Android (Java) -->
-  <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/>
+  <!--img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/>
   <!-- HTML -->
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
   <!-- CSS -->
