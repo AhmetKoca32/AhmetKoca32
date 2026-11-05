@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="200" viewBox="0 0 1100 200" role="img" aria-label="Transmission complete: open for backend, full-stack and applied AI opportunities.">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1c2b"/><stop offset="1" stop-color="#1c1c38"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#50e2d8"/><stop offset=".5" stop-color="#b6a4fc"/><stop offset="1" stop-color="#f5c88c"/></linearGradient></defs>
-<style>text{font-family:Arial,Helvetica,sans-serif}.m{font-family:Consolas,'Courier New',monospace}.pulse{animation:pulse 3s ease-in-out infinite}.cursor{animation:blink 1s steps(1,end) infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<style>text{font-family:Arial,Helvetica,sans-serif}.sparkle{animation:sparkle 4s ease-in-out infinite}@keyframes sparkle{0%,100%{opacity:.25}50%{opacity:1}}.m{font-family:Consolas,'Courier New',monospace}.pulse{animation:pulse 3s ease-in-out infinite}.cursor{animation:blink 1s steps(1,end) infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="1" y="1" width="1098" height="198" rx="18" fill="url(#bg)" stroke="#354c65" stroke-width="2"/>
 <rect x="1" y="194" width="1098" height="5" fill="url(#edge)" rx="2"/>
 <text x="40" y="48" class="m" font-size="15" fill="#63e7d9">06 // TRANSMISSION</text>
@@ -10,4 +10,4 @@
 <circle cx="988" cy="94" r="53" stroke="#408a89" stroke-width="2" fill="none"/>
 <circle cx="988" cy="94" r="39" stroke="#5ce3d9" stroke-dasharray="8 9" stroke-width="3" fill="none" class="pulse"/>
 <text x="988" y="102" text-anchor="middle" font-size="22" fill="#defbf5" font-weight="700">AK</text>
-</svg>
+<circle cx="795" cy="47" r="5" fill="#ff82b8" class="sparkle"/><circle cx="864" cy="150" r="3" fill="#7edbff" class="sparkle"/><circle cx="1060" cy="34" r="3.5" fill="#ffdf87" class="sparkle"/><path d="M40 184H830" stroke="#b9a0ff" stroke-width="2" stroke-dasharray="12 26" class="pulse" opacity=".5"/></svg>
