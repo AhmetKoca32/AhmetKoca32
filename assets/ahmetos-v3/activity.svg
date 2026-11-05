@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="180" viewBox="0 0 1100 180" role="img" aria-label="Developer activity dashboard displaying current technical focus, contribution history link and progress status, with animated indicator lights. Not a live statistics counter.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1727"/><stop offset="1" stop-color="#151c30"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.m{font-family:Consolas,'Courier New',monospace}.beat{animation:beat 3s ease-in-out infinite}.scan{animation:scan 4.5s linear infinite}@keyframes beat{0%,100%{opacity:.4}50%{opacity:1}}@keyframes scan{to{stroke-dashoffset:-100}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="1098" height="178" rx="18" fill="url(#bg)" stroke="#34485e" stroke-width="2"/>
+<text x="28" y="32" class="m" font-size="14" letter-spacing="1" fill="#88a4bc">CONTRIBUTION CONSOLE <tspan fill="#57e0d6">// FOCUS, NOT FAKE COUNTERS</tspan></text>
+<path d="M365 50V151M735 50V151" stroke="#31465c" stroke-width="2"/>
+<circle cx="57" cy="81" r="7" fill="#53dfac" class="beat"/><text x="76" y="87" font-size="22" fill="#f2f7fd" font-weight="700">ENGINEERING</text>
+<text x="54" y="120" class="m" font-size="14" fill="#a1b9cd">APIs  /  Services  /  Data</text>
+<circle cx="425" cy="81" r="7" fill="#ad99f6" class="beat"/><text x="444" y="87" font-size="22" fill="#f2f7fd" font-weight="700">APPLIED AI</text>
+<text x="423" y="120" class="m" font-size="14" fill="#a1b9cd">RAG  /  LLM Integration</text>
+<circle cx="786" cy="81" r="7" fill="#f0c68d" class="beat"/><text x="805" y="87" font-size="22" fill="#f2f7fd" font-weight="700">MOBILE</text>
+<text x="783" y="120" class="m" font-size="14" fill="#a1b9cd">Flutter  /  Firebase</text>
+<path d="M49 148H1050" fill="none" stroke="#455669" stroke-width="2"/>
+<path d="M49 148H1050" fill="none" stroke="#55e5dc" stroke-width="3" stroke-dasharray="13 24" class="scan"/>
+</svg>
