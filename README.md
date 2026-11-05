@@ -4,7 +4,9 @@
   <img src="assets/ahmetos-v3/hero.svg" width="100%" alt="AhmetOS v3, animated terminal and developer mission control for Ahmet Koca" />
 </a>
 
-**Backend & Full-Stack Developer** · Flutter · Applied AI
+<img src="assets/ahmetos-v3-arcade/neon-marquee.svg" width="100%" alt="Colorful animated arcade banner: Explore, Create, Deploy, Repeat" />
+
+**Backend & Full-Stack Developer** · Flutter · Applied AI · Creative Engineering
 
 [<img src="assets/ahmetos-v3/contact-linkedin.svg" width="31%" alt="Open Ahmet's LinkedIn" />](https://www.linkedin.com/in/ahmetkocaa/)
 [<img src="assets/ahmetos-v3/contact-portfolio.svg" width="31%" alt="Open Ahmet's portfolio" />](https://ahmet-koca-portfolio.vercel.app/)
@@ -33,7 +35,9 @@ I build **Python/FastAPI services**, mobile apps with **Flutter**, and AI-enable
 
 ---
 
-## `02 // SELECT YOUR MISSION`
+## `02 // SELECT YOUR MISSION` 
+
+*Six quests, six different tech stacks. Pick one and explore the source.*
 
 <div align="center">
 <a href="https://github.com/AhmetKoca32/zerowaste"><img src="assets/ahmetos-v3/mission-zerowaste.svg" width="49%" alt="ZeroWaste Kitchen mission" /></a>
@@ -86,7 +90,7 @@ These projects include team, research and learning prototypes. See each reposito
 ## `04 // ACHIEVEMENTS UNLOCKED`
 
 <div align="center">
-<img src="assets/ahmetos-v2/achievements.svg" width="100%" alt="Erasmus Plus, TÜBİTAK STAR and AI Bootcamp development experience" />
+<img src="assets/ahmetos-v3-arcade/achievements.svg" width="100%" alt="Erasmus Plus, TÜBİTAK STAR and AI Bootcamp development experience" />
 </div>
 
 - **Erasmus+ ZeroWaste Kitchen:** Flutter mobile development for an international sustainability initiative.
@@ -95,7 +99,9 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `05 // CONTRIBUTION QUEST`
+## `05 // CONTRIBUTION QUEST` 
+
+*XP isn't measured by invented counters. The contribution snake tells the story.*
 
 <div align="center">
 <img src="assets/ahmetos-v3/activity.svg" width="100%" alt="Visual developer focus panel for backend, applied AI and Flutter; not a live numeric statistics counter" />
@@ -121,6 +127,6 @@ These projects include team, research and learning prototypes. See each reposito
 [<img src="assets/ahmetos-v3/contact-portfolio.svg" width="31%" alt="Portfolio website link" />](https://ahmet-koca-portfolio.vercel.app/)
 [<img src="assets/ahmetos-v3/contact-email.svg" width="31%" alt="Email contact link" />](mailto:kocaahmetkoca32@gmail.com)
 
-<sub>AHMETOS V3.0 · Original SVG animations · Reduced-motion support · No fragile badge or third-party statistics image dependencies.</sub>
+<sub>AHMETOS V3.1 NEON ARCADE · Original SVG animations · Reduced-motion support · No fragile badge or third-party statistics image dependencies.</sub>
 
 </div>
