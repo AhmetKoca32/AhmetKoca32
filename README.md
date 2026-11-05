@@ -72,7 +72,27 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `03 // LIVE DATA FLOW`
+## `03 // SKILL TREE`
+
+<div align="center">
+<img src="assets/ahmetos-v4/skill-tree.svg" width="100%" alt="Animated skill tree with backend engineering, applied AI, Flutter mobile and delivery branches" />
+</div>
+
+> Every branch represents technologies explored in real projects. These are not invented proficiency scores or game levels.
+
+---
+
+## `04 // DEVELOPER JOURNEY`
+
+<div align="center">
+<img src="assets/ahmetos-v4/developer-journey.svg" width="100%" alt="Animated quest map of selected career chapters: SDU graduation, DermaScope, STING, Erasmus+ ZeroWaste and future backend AI development" />
+</div>
+
+The checkpoints show **selected experiences**, not a precise dated chronology. Some are team projects, and the final checkpoint represents a direction I'm working toward.
+
+---
+
+## `05 // LIVE DATA FLOW`
 
 <div align="center">
 <img src="assets/ahmetos-v3/architecture.svg" width="100%" alt="Animated ecosystem showing Flutter, FastAPI and AI components connected to data infrastructure" />
@@ -93,7 +113,7 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `04 // ACHIEVEMENTS UNLOCKED`
+## `06 // ACHIEVEMENTS UNLOCKED`
 
 <div align="center">
 <img src="assets/ahmetos-v3-arcade/achievements.svg" width="100%" alt="Erasmus Plus, TÜBİTAK STAR and AI Bootcamp development experience" />
@@ -105,7 +125,7 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `05 // CONTRIBUTION QUEST` 
+## `07 // CONTRIBUTION QUEST` 
 
 *XP isn't measured by invented counters. The contribution snake tells the story.*
 
@@ -124,7 +144,7 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `06 // TRANSMISSION`
+## `08 // TRANSMISSION`
 
 <div align="center">
 <img src="assets/ahmetos-v3/transmission.svg" width="100%" alt="Animated closing panel: Let's build something useful, backend, full-stack and applied AI" />

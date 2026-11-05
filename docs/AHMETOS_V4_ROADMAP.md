@@ -13,7 +13,7 @@ This branch is an incremental redesign of the GitHub profile. Keep `main` stable
 ## Development phases
 
 - [x] **Phase 1: Identity.** Introduce Byte and retitle the animated terminal as AhmetOS v4.
-- [ ] **Phase 2: Skill Tree + Developer Journey.** Add a colorful animated skills network and a career checkpoint map, based on actual experience.
+- [x] **Phase 2: Skill Tree + Developer Journey.** Add a colorful animated skills network and a career checkpoint map, based on actual experience.
 - [ ] **Phase 3: Live project signals.** Add a permission-limited GitHub Actions workflow that regenerates a data panel from public GitHub commits. Check the default branch, API rate limits, permissions, missing data and failed jobs; show the date of last successful refresh. Do not include private repositories.
 - [ ] **Phase 4: Easter eggs + release polish.** Add GitHub-safe expandable terminal surprises and achievements; validate color contrast, desktop/mobile views, broken links, reduced-motion experience, and readability.
 
@@ -22,6 +22,10 @@ This branch is an incremental redesign of the GitHub profile. Keep `main` stable
 - `assets/ahmetos-v4/hero.svg`: v4 animated terminal masthead.
 - `assets/ahmetos-v4/byte-mascot.svg`: original self-contained pixel-art mascot, with wave, blink, bob, and twinkling background.
 - `README.md`: introduces Byte while keeping six project cards, contact buttons, existing neon marquee, architecture, and contribution snake.
+
+- `assets/ahmetos-v4/skill-tree.svg`: original animated four-branch skill tree describing documented technologies, without proficiency claims.
+- `assets/ahmetos-v4/developer-journey.svg`: original animated five-checkpoint career quest map with selected real experiences, not a dated chronology.
+- `README.md`: now includes both visuals and renumbers the sections to preserve reading order.
 
 ## Release checks
 
