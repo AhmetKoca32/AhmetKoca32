@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="392" viewBox="0 0 1100 392" role="img" aria-labelledby="title desc">
+<title id="title">AhmetOS v4 developer terminal</title><desc id="desc">Animated developer mission control for Ahmet Koca, with neon terminal header, scanning light, moving data nodes, and a blinking command cursor.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09121f"/><stop offset=".58" stop-color="#0c1928"/><stop offset="1" stop-color="#15172e"/></linearGradient>
+ <linearGradient id="border" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#35dbd2"/><stop offset=".5" stop-color="#a28cfc"/><stop offset="1" stop-color="#58aafd"/></linearGradient>
+ <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#57e5dd" stop-opacity="0"/><stop offset=".5" stop-color="#57e5dd" stop-opacity=".14"/><stop offset="1" stop-color="#57e5dd" stop-opacity="0"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#41d7d8" stop-opacity=".18"/><stop offset="1" stop-color="#41d7d8" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#c7eaff" stroke-width=".7" stroke-opacity=".075"/></pattern>
+ <clipPath id="clip"><rect x="2" y="2" width="1096" height="388" rx="21"/></clipPath>
+<radialGradient id="pinkGlow"><stop stop-color="#f86ebc" stop-opacity=".25"/><stop offset="1" stop-color="#f86ebc" stop-opacity="0"/></radialGradient><linearGradient id="multi" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#53ebd5"/><stop offset=".23" stop-color="#7ba9ff"/><stop offset=".5" stop-color="#ca9aff"/><stop offset=".76" stop-color="#ff82af"/><stop offset="1" stop-color="#ffd17e"/></linearGradient></defs>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}.twinkle{animation:twinkle 3.2s ease-in-out infinite}.twinkle2{animation:twinkle 4.5s ease-in-out 1s infinite}.meteor{animation:meteor 7s linear infinite}.colorBand{animation:band 9s linear infinite}.m{font-family:Consolas,'Courier New',monospace}
+.pulse{animation:pulse 3s ease-in-out infinite}.pulse2{animation:pulse 3s ease-in-out 1s infinite}.blink{animation:blink 1s steps(1,end) infinite}
+.scan{animation:sweep 8.5s ease-in-out infinite}.spin{transform-origin:858px 209px;animation:spin 28s linear infinite}.spin2{transform-origin:858px 209px;animation:spin 21s linear reverse infinite}
+.packet{animation:packet 4.4s linear infinite}.packet2{animation:packet 4.4s linear 1.7s infinite}
+@keyframes pulse{0%,100%{opacity:.34}50%{opacity:1}}@keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+@keyframes sweep{0%{transform:translateX(-370px);opacity:0}15%{opacity:1}75%{opacity:.75}100%{transform:translateX(1150px);opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes packet{0%{stroke-dashoffset:150;opacity:0}25%,75%{opacity:1}100%{stroke-dashoffset:-150;opacity:0}}
+@keyframes twinkle{0%,100%{opacity:.15;transform:scale(.8)}50%{opacity:.9;transform:scale(1.3)}}@keyframes meteor{0%{transform:translate(-120px,65px);opacity:0}15%{opacity:.9}55%{opacity:.65}100%{transform:translate(950px,-110px);opacity:0}}@keyframes band{to{stroke-dashoffset:-210}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1.5" y="1.5" width="1097" height="389" rx="23" fill="url(#bg)" stroke="#34465f" stroke-width="3"/>
+<g clip-path="url(#clip)">
+ <rect x="0" y="0" width="1100" height="392" fill="url(#grid)"/>
+ <ellipse cx="880" cy="215" rx="280" ry="220" fill="url(#halo)"/><ellipse cx="360" cy="360" rx="300" ry="145" fill="url(#pinkGlow)"/>
+ <rect x="-340" y="0" width="240" height="390" fill="url(#scan)" class="scan"/>
+ <g fill="#9fefff"><circle cx="89" cy="91" r="2" class="twinkle"/><circle cx="590" cy="116" r="3" class="twinkle2"/><circle cx="629" cy="284" r="2" class="twinkle"/><circle cx="1038" cy="154" r="2.5" class="twinkle2"/><circle cx="1002" cy="321" r="2" class="twinkle"/></g><path d="M-50 162L140 128" fill="none" stroke="#ff8ab8" stroke-width="3" stroke-linecap="round" class="meteor"/><path d="M0 65H1100" stroke="#34475f"/><rect x="0" y="388" width="1100" height="4" fill="url(#multi)"/><path d="M0 388H1100" stroke="#fff" stroke-width="1.5" stroke-opacity=".6" stroke-dasharray="40 80" class="colorBand"/>
+ <circle cx="34" cy="31" r="6" fill="#ff6977"/><circle cx="56" cy="31" r="6" fill="#f9c56d"/><circle cx="78" cy="31" r="6" fill="#57dda8"/>
+ <text x="110" y="36" class="m" font-size="14" letter-spacing="1.5" fill="#cbdae9">AHMETOS <tspan fill="#63e4dc">V4.0</tspan> <tspan fill="#637b95">// DEVELOPER MISSION CONTROL</tspan></text>
+ <text x="926" y="36" class="m" font-size="12" fill="#95adc4">BOOT OK</text><circle cx="1068" cy="31" r="5" fill="#5fe5ab" class="pulse"/>
+ <text x="51" y="110" class="m" font-size="16" fill="#6ee4dc">$ whoami --verbose</text>
+ <text x="47" y="181" font-size="55" font-weight="800" letter-spacing="1" fill="#f4f9ff">AHMET KOCA</text><path d="M52 193H507" stroke="url(#multi)" stroke-width="4" stroke-linecap="round" stroke-dasharray="195 40" class="colorBand"/>
+ <text x="52" y="223" font-size="25" font-weight="700" letter-spacing=".5" fill="#64e2db">BACKEND <tspan fill="#b39eff">/</tspan> FULL-STACK</text>
+ <text x="52" y="257" class="m" font-size="17" fill="#c0d0e0">Python  <tspan fill="#63829c">·</tspan>  Flutter  <tspan fill="#63829c">·</tspan>  Applied AI</text>
+ <text x="52" y="292" font-size="15" fill="#acc1d6">Turning ambitious ideas into reliable software.</text>
+ <rect x="50" y="319" width="180" height="34" rx="17" fill="#0c332c" stroke="#318876"/>
+ <circle cx="69" cy="336" r="5" fill="#5fe5ab" class="pulse"/>
+ <text x="84" y="341" class="m" font-size="13" fill="#b1f2d7">BUILD MODE</text>
+ <text x="252" y="341" class="m" font-size="13" fill="#d29aff">git status: evolving<tspan fill="#5fe5dd" class="blink">_</tspan></text>
+ <path d="M685 84V365" stroke="#3c536a"/>
+ <g>
+  <circle cx="858" cy="209" r="125" fill="none" stroke="#273f58" stroke-width="1.5"/>
+  <circle cx="858" cy="209" r="98" fill="none" stroke="#5ad5d0" stroke-width="2.5" stroke-dasharray="14 10" class="spin"/>
+  <circle cx="858" cy="209" r="76" fill="none" stroke="#8874c3" stroke-width="1.5" stroke-dasharray="3 10" class="spin2"/>
+  <path d="M858 115L957 260L756 260Z" fill="#152a3b" fill-opacity=".55" stroke="#4d8498" stroke-width="2"/>
+  <path d="M858 115L957 260L756 260Z" fill="none" stroke="#63e6dc" stroke-width="4" stroke-dasharray="14 320" class="packet"/>
+  <path d="M858 115L957 260L756 260Z" fill="none" stroke="#b09cfa" stroke-width="4" stroke-dasharray="12 330" class="packet2"/>
+  <circle cx="858" cy="115" r="13" fill="#0f2636" stroke="#63e6dc" stroke-width="3"/><circle cx="957" cy="260" r="13" fill="#1c203a" stroke="#b29efe" stroke-width="3"/><circle cx="756" cy="260" r="13" fill="#272335" stroke="#edc48a" stroke-width="3"/>
+  <circle cx="858" cy="115" r="20" fill="none" stroke="#63e6dc" stroke-opacity=".6" class="pulse"/>
+  <circle cx="957" cy="260" r="20" fill="none" stroke="#b29efe" stroke-opacity=".6" class="pulse2"/>
+  <rect x="827" y="183" width="62" height="53" rx="13" fill="#162a3d" stroke="#55788d" stroke-width="1.5"/>
+  <text x="858" y="217" font-size="23" font-weight="800" text-anchor="middle" fill="#f0f8ff">AK</text>
+ </g>
+ <text x="742" y="98" class="m" font-size="12" fill="#80dcd5">API</text><text x="961" y="222" class="m" font-size="12" fill="#c3b3ff">AI</text><text x="740" y="304" class="m" font-size="12" fill="#f1ce9b">MOBILE</text>
+ <text x="778" y="361" class="m" font-size="11" fill="#6f879e" letter-spacing="1.1">SYNCING MODULES...</text>
+</g></svg>
