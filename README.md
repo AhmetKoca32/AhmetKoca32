@@ -1,155 +1,61 @@
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ahmet+Koca+%e2%9c%a8;%f0%9f%93%9a+Mobile+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
+
+# Hi, I'm Ahmet Koca 👋
+
+### Backend & Full-Stack Developer · Flutter · Applied AI
+
+Computer Engineering graduate from **Süleyman Demirel University, Türkiye**.
+
+I build API-driven products, mobile apps, and practical AI integrations, with a growing focus on backend engineering, system architecture, and delivering software beyond the prototype stage.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetkocaa/)
+[![Email](https://img.shields.io/badge/Email-Contact-444?style=flat-square&logo=gmail&logoColor=white)](mailto:kocaahmetkoca32@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111?style=flat-square&logo=vercel&logoColor=white)](https://ahmet-koca-portfolio.vercel.app/)
+
 </div>
 
-![MasterHead](https://github.com/AhmetKoca32/AhmetKoca32/blob/main/Banner2.png)
+## What I work on
 
-<div align="center">
-    <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/game-changer-game-changers.gif" 
-         alt="Coding" 
-         width="33%" 
-         height="auto" 
-         style="display: inline-block;">
-    <img src="https://github.com/AhmetKoca32/AhmetKoca32/blob/main/code-coding.gif" 
-         alt="Coding" 
-         width="33%" 
-         height="auto" 
-         style="display: inline-block;">
-</div>
+- **Backend engineering:** Python, FastAPI, REST APIs, PostgreSQL, Redis, authentication, background workflows, and containerized development.
+- **Full-stack & mobile:** Flutter / Dart, Firebase, state management, and connecting mobile interfaces to backend services.
+- **Applied AI:** LLM-powered features, retrieval-augmented generation (RAG), model/API integration, and AI-assisted user experiences.
+- **Collaborative delivery:** Cross-functional projects, requirements analysis, version control, and iterative product development.
 
----
+I have contributed to an **Erasmus+ KA210** sustainability app and a **TÜBİTAK 1001** research project, alongside university team projects and independent software work.
 
-## Languages and Tools:
+## Selected projects
 
-<p align="left">
-  <!-- Flutter -->
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40"/>
-  <!-- Dart -->
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" height="40"/>
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Dart" width="40" height="40"/>
-  <!-- Firebase -->
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" height="40"/>
-  <!-- Docker -->
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-  <!-- Google Cloud Platform -->
-  <!--img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/>
-  <!-- Git -->
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <!-- MySQL -->
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  <!-- SQLite -->
-  <img src="https://img.icons8.com/ios/50/000000/sqlite.png" alt="SQLite" width="40" height="40"/>
-  <!-- PostgreSQL -->
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <!-- FastAPI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <!-- GraphQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-  <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <!-- Django Rest Framework-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="Django" width="40" height="40"/>
-  <!-- Flask -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
-  <!-- Kubernetes -->
-  <!--img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
-  <!-- Redis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <!-- Celery -->
-  <img src="https://img.icons8.com/color/48/000000/celery.png" alt="Celery" width="40" height="40"/>
-  <!-- Java -->
-  <!--img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  <!-- Android (Java) -->
-  <!--img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40"/>
-  <!-- HTML -->
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
-  <!-- CSS -->
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <!-- JavaScript -->
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <!-- C -->
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
-  <!-- Unity -->
-<!--   <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40" height="40"/> -->
-  <!-- Spring Boot -->
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
-</p>
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| **[ZeroWaste Kitchen](https://github.com/AhmetKoca32/zerowaste)** | Erasmus+ food-waste awareness mobile app with ingredient-based AI recipes, EcoChef, and gamification | Flutter, Riverpod, Firebase, Cloud Functions, DeepSeek |
+| **[Shoplytic](https://github.com/AhmetKoca32/Shoplytic)** | AI-assisted shopping workflow with personalized needs analysis, mind maps, and product suggestions | Flutter, FastAPI, LangGraph |
+| **[Stayzi](https://github.com/AhmetKoca32/Stayzi)** | Collaborative accommodation marketplace prototype: profiles, listings, favorites, and backend integrations | Flutter, FastAPI, PostgreSQL, Redis, RabbitMQ |
+| **[DermaScope](https://github.com/AhmetKoca32/AI-180)** | Bootcamp team prototype integrating image analysis and informational AI guidance into a mobile experience | Flutter, FastAPI, TensorFlow / Keras, Gemini |
+| **[ZoneRun](https://github.com/AhmetKoca32/ZoneRun)** | GPS-based territory challenge with polygon area estimation and local activity history | Flutter, Google Maps, SQLite, Firebase |
+| **[ChatBot with RAG](https://github.com/AhmetKoca32/ChatBot_with_RAG)** | Exploration of retrieval-augmented chatbot architecture using an API and a separate chat interface | Python, FastAPI, LlamaIndex, Streamlit |
 
-## Connect With Me
-<p align="left">
-  <!-- Email -->
-  <a href="mailto:kocaahmetkoca32@gmail.com"  target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ahmet-koca-75a995258/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/ahmetkoca/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  <!-- Medium -->
-<a href="https://medium.com/@ahmetkocaa" target="_blank">
-  <img src="medium.png" alt="Medium" width="40" height="40"/>
-</a>
-<!-- Portfolio -->
-<a href="https://ahmet-koca-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="40" height="40"/>
-</a>
+These repositories span different stages of my learning and development. Some are academic or experimental prototypes; their READMEs describe their scope and limitations rather than presenting them as production services.
 
-</p>
+## Technologies
 
-## About Me
+**Languages:** Python · Dart · SQL · JavaScript / TypeScript
 
-- 🎓 I'm a fourth-year Computer Engineering student.
-- 🎯 My primary focus is mobile development with **Flutter**, but I am also proficient in web development.
-- 💞️ I'm looking to collaborate on projects involving:
-    - **Mobile:** Flutter
-    - **Backend:** Python, REST API, gRPC
-    - **Data Science & AI:** Data Analysis, Machine Learning (ML)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning new technologies and continuously work towards my future goals!
+**Backend & data:** FastAPI · PostgreSQL · SQLAlchemy · Redis · RabbitMQ · Docker
 
-## GitHub Stats
+**Mobile & cloud:** Flutter · Firebase · Cloud Functions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetKoca32&show_icons=true&theme=chartreuse-dark)
+**AI & development:** LLM APIs · RAG · LangGraph · Git · GitHub Actions
 
-### Streak Stats
+## Experience and interests
 
-![Streak Stats](https://streak-stats.demolab.com/?user=AhmetKoca32&theme=chartreuse-dark)
+- **Erasmus+ ZeroWaste Kitchen:** Mobile application development for a cross-border sustainability project.
+- **TÜBİTAK 1001 STING:** Research-project contribution involving digital health workflows and software interfaces.
+- **Full-stack engineering:** Building connected services and client applications, with particular interest in maintainability, observability, and reliable deployment.
 
+## Get in touch
 
-### Most Used Languages 
+I'm interested in **backend, full-stack, and applied AI engineering** opportunities and technically challenging collaborations.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetKoca32&langs_count=5&layout=compact&theme=chartreuse-dark&custom_title=Languages&hide=c%23)
+**[LinkedIn](https://www.linkedin.com/in/ahmetkocaa/)** · **[Email](mailto:kocaahmetkoca32@gmail.com)** · **[Portfolio](https://ahmet-koca-portfolio.vercel.app/)**
 
-## Current Projects  
-
-- **[STING: A TÜBİTAK 1001 Project](https://github.com/tubitaksting)**: A TÜBİTAK 1001 project, developed at Süleyman Demirel University, Turkey. PI: Dr. Utku KOSE.
-- **[Konwoy - New Startup](#)**: A new startup venture focused on [brief description of the project]. (Repository is private)
-- **[EcoTale - Interactive Storytelling App](https://github.com/AhmetKoca32/EcoTale)**: A web-based storytelling application designed to raise environmental awareness in children aged 5–12 through AI-generated, age-appropriate stories. Uses Gemini API for dynamic content generation, Google Cloud TTS for narration, and Three.js for animated interactions. Developed with HTML, CSS, JavaScript, and Flask.
-- **[DermaScope - AI-Powered Skin & Hair Analysis App](https://github.com/AhmetKoca32/AI-180)**: A mobile health technology solution developed during the Artificial Intelligence and Technology Academy Bootcamp. It provides AI-powered preliminary diagnosis, personalized care recommendations, and health tracking by analyzing users' skin and hair images.
-- **[Stayzi - Airbnb-like Accommodation Platform](https://github.com/AhmetKoca32/Stayzi)**: A full-stack mobile accommodation platform for property rentals. The cross-platform app is built with Flutter, supported by a high-performance FastAPI backend using PostgreSQL, Redis, and RabbitMQ, and containerized with Docker.
-- **[Shoplytic - AI Agent E-Commerce Platform](https://github.com/AhmetKoca32/BtkAkademi-Hackathon-2025)**: An intelligent e-commerce platform that generates personalized mind maps and product recommendations from user life situations. Built with Flutter and an AI-native backend using FastAPI, LangGraph, and LangChain to orchestrate specialized agents, it also features a unique consumer rights support module.
-
-
-
-
-
-
-
+<sub>[Previous GitHub profile README (archived)](docs/ORIGINAL_GITHUB_PROFILE_README.md)</sub>
