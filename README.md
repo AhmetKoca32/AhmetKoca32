@@ -1,10 +1,16 @@
 <div align="center">
 
 <a href="https://github.com/AhmetKoca32">
-  <img src="assets/ahmetos-v3/hero.svg" width="100%" alt="AhmetOS v3, animated terminal and developer mission control for Ahmet Koca" />
+  <img src="assets/ahmetos-v4/hero.svg" width="100%" alt="AhmetOS v4 animated terminal and pixel arcade developer world for Ahmet Koca" />
 </a>
 
 <img src="assets/ahmetos-v3-arcade/neon-marquee.svg" width="100%" alt="Colorful animated arcade banner: Explore, Create, Deploy, Repeat" />
+
+<img src="assets/ahmetos-v4/byte-mascot.svg" width="230" alt="Byte, the animated AhmetOS coding mascot waving and blinking" />
+
+### MEET BYTE · YOUR CODING SIDEKICK
+
+*Pixel-perfect? Probably not. Curious and always building? Absolutely.*
 
 **Backend & Full-Stack Developer** · Flutter · Applied AI · Creative Engineering
 
@@ -127,6 +133,6 @@ These projects include team, research and learning prototypes. See each reposito
 [<img src="assets/ahmetos-v3/contact-portfolio.svg" width="31%" alt="Portfolio website link" />](https://ahmet-koca-portfolio.vercel.app/)
 [<img src="assets/ahmetos-v3/contact-email.svg" width="31%" alt="Email contact link" />](mailto:kocaahmetkoca32@gmail.com)
 
-<sub>AHMETOS V3.1 NEON ARCADE · Original SVG animations · Reduced-motion support · No fragile badge or third-party statistics image dependencies.</sub>
+<sub>AHMETOS V4.0 PIXEL ARCADE · Original SVG animations · Reduced-motion support · No fragile badge or third-party statistics image dependencies.</sub>
 
 </div>
