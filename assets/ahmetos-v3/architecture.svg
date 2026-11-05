@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Animated system architecture illustrating mobile, backend and AI services connected to data infrastructure">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1726"/><stop offset="1" stop-color="#151a2e"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#d2e9ff" stroke-opacity=".04"/></pattern></defs>
-<style>text{font-family:Arial,Helvetica,sans-serif}.m{font-family:Consolas,'Courier New',monospace}.flow{animation:flow 4s linear infinite}.flow2{animation:flow 5.5s linear infinite reverse}.glow{animation:glow 2.6s ease-in-out infinite}@keyframes flow{to{stroke-dashoffset:-90}}@keyframes glow{0%,100%{opacity:.3}50%{opacity:.95}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<style>text{font-family:Arial,Helvetica,sans-serif}.sparkle{animation:sparkle 4s ease-in-out infinite}@keyframes sparkle{0%,100%{opacity:.25}50%{opacity:1}}.m{font-family:Consolas,'Courier New',monospace}.flow{animation:flow 4s linear infinite}.flow2{animation:flow 5.5s linear infinite reverse}.glow{animation:glow 2.6s ease-in-out infinite}@keyframes flow{to{stroke-dashoffset:-90}}@keyframes glow{0%,100%{opacity:.3}50%{opacity:.95}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="1" y="1" width="1098" height="298" rx="18" fill="url(#bg)" stroke="#33475f" stroke-width="2"/><rect x="1" y="1" width="1098" height="298" rx="18" fill="url(#grid)"/>
 <text x="31" y="33" class="m" font-size="14" fill="#88a5bb" letter-spacing="1">MY TECH ECOSYSTEM <tspan fill="#5ce5db">// PACKETS MOVING</tspan></text>
 <path d="M200 169V209H550V239M550 169V239M900 169V209H550" fill="none" stroke="#355065" stroke-width="3"/>
@@ -14,4 +14,4 @@
 <rect x="287" y="240" width="526" height="39" rx="11" fill="#102d37" stroke="#3e7580"/>
 <text x="550" y="266" text-anchor="middle" class="m" font-size="17" fill="#d4e7ee">POSTGRESQL  /  REDIS  /  DOCKER  /  FIREBASE</text>
 <circle cx="200" cy="209" r="5" fill="#64dfd8" class="glow"/><circle cx="550" cy="209" r="5" fill="#b5a2ff" class="glow"/><circle cx="900" cy="209" r="5" fill="#f0c68e" class="glow"/>
-</svg>
+<circle cx="240" cy="43" r="4" fill="#ff82b1" class="sparkle"/><circle cx="734" cy="38" r="3" fill="#78caff" class="sparkle"/><circle cx="1023" cy="210" r="5" fill="#ffd580" class="sparkle"/><path d="M32 285H1068" stroke="#a68fff" stroke-width="2" stroke-dasharray="22 18" class="flow" opacity=".7"/></svg>

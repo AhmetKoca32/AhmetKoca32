@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="510" height="202" viewBox="0 0 510 202" role="img" aria-label="ZEROWASTE mission: SUSTAINABILITY + AI">
-<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0e1929"/><stop offset="1" stop-color="#171c30"/></linearGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#DBEBFD" stroke-opacity=".04"/></pattern></defs>
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#163a35"/><stop offset="1" stop-color="#171b38"/></linearGradient><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#DBEBFD" stroke-opacity=".04"/></pattern></defs>
 <style>text{font-family:Arial,Helvetica,sans-serif}.m{font-family:Consolas,'Courier New',monospace}.pulse{animation:pulse 3s ease-in-out infinite}.orbit{transform-origin:433px 79px;animation:orbit 13s linear infinite}.stroke{animation:dash 6s linear infinite}.scan{animation:scan 4s ease-in-out infinite}
-@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes dash{to{stroke-dashoffset:-80}}@keyframes scan{0%,100%{opacity:.25}50%{opacity:.9}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes dash{to{stroke-dashoffset:-80}}@keyframes scan{0%,100%{opacity:.25}50%{opacity:.9}}.spark{animation:spark 3.2s ease-in-out infinite}.spark2{animation:spark 4.3s ease-in-out 1s infinite}.trail{animation:dash 3.5s linear infinite}@keyframes spark{0%,100%{opacity:.25;transform:translateY(0)}50%{opacity:1;transform:translateY(-6px)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
 <rect x="1" y="1" width="508" height="200" rx="17" fill="url(#b)" stroke="#36485e" stroke-width="2"/><rect x="2" y="2" width="506" height="198" rx="16" fill="url(#grid)"/>
 <rect x="1" y="1" width="5" height="200" rx="2" fill="#60E0B3"/>
 <circle cx="33" cy="30" r="5" fill="#60E0B3" class="pulse"/>
@@ -16,4 +16,7 @@
 <path d="M14 11C34 2 42 12 24 28C8 33 7 21 14 11ZM10 33Q29 22 40 9" fill="none" stroke="#60E0B3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" class="scan"/>
 </g>
 <circle cx="433" cy="82" r="43" stroke="#60E0B3" stroke-width="1.5" stroke-dasharray="7 15" fill="none" stroke-opacity=".45" class="orbit"/>
-</svg>
+<rect x="18" y="11" width="475" height="180" rx="11" fill="none" stroke="#55f1b2" opacity=".15" stroke-width="1.3"/>
+<path d="M31 61H297" stroke="#2b6656" stroke-width="2" stroke-dasharray="6 14" opacity=".5" class="trail"/>
+<g fill="#55f1b2"><circle cx="355" cy="46" r="3" class="spark"/><circle cx="382" cy="125" r="2.5" class="spark2"/><circle cx="470" cy="141" r="3" class="spark"/></g>
+<rect x="334" y="168" width="135" height="5" rx="2.5" fill="#2b6656" opacity=".4"/><rect x="334" y="168" width="47" height="5" rx="2.5" fill="#55f1b2" class="pulse"/></svg>
