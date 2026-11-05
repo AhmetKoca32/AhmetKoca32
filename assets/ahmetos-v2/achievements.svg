@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="158" viewBox="0 0 960 158" role="img" aria-label="Achievement unlocked: Erasmus Plus, TUBITAK STAR research, and AI bootcamp">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1726"/><stop offset="1" stop-color="#101A2F"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}.glow{animation:glow 3.2s ease-in-out infinite}@keyframes glow{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="958" height="156" rx="18" stroke="#33465F" stroke-width="2" fill="url(#bg)"/>
+<text x="28" y="30" class="mono" font-size="12" letter-spacing="1.5" fill="#92A8BE">ACHIEVEMENTS UNLOCKED / PROJECT JOURNEY</text>
+<g>
+<rect x="25" y="49" width="296" height="83" rx="12" fill="#142A2B" stroke="#356D68"/>
+<rect x="332" y="49" width="296" height="83" rx="12" fill="#242038" stroke="#665E93"/>
+<rect x="639" y="49" width="296" height="83" rx="12" fill="#2A2529" stroke="#947352"/>
+<circle cx="64" cy="89" r="21" stroke="#63DDB8" stroke-width="2" fill="#1B413B"/><text x="64" y="96" text-anchor="middle" font-size="21" fill="#8CFFE2">✦</text>
+<circle cx="370" cy="89" r="21" stroke="#B7A4FB" stroke-width="2" fill="#383357"/><text x="370" y="96" text-anchor="middle" font-size="20" fill="#DDCFFF">★</text>
+<circle cx="677" cy="89" r="21" stroke="#E6BD87" stroke-width="2" fill="#4D3A2E"/><text x="677" y="96" text-anchor="middle" font-size="20" fill="#FFE0AB">✧</text>
+<text x="97" y="84" font-size="18" font-weight="700" fill="#F0F7FD">ERASMUS+</text>
+<text x="97" y="106" class="mono" font-size="12" fill="#8DDDC4">ZeroWaste Kitchen</text>
+<text x="402" y="84" font-size="18" font-weight="700" fill="#F0F7FD">TÜBİTAK STAR</text>
+<text x="402" y="106" class="mono" font-size="12" fill="#B6A7E5">Research experience</text>
+<text x="709" y="84" font-size="18" font-weight="700" fill="#F0F7FD">AI BOOTCAMP</text>
+<text x="709" y="106" class="mono" font-size="12" fill="#F0C99F">DermaScope team project</text>
+</g>
+<circle class="glow" cx="920" cy="25" r="4" fill="#6CE8CB"/>
+</svg>
