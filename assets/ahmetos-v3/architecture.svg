@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Animated system architecture illustrating mobile, backend and AI services connected to data infrastructure">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1726"/><stop offset="1" stop-color="#151a2e"/></linearGradient><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#d2e9ff" stroke-opacity=".04"/></pattern></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.m{font-family:Consolas,'Courier New',monospace}.flow{animation:flow 4s linear infinite}.flow2{animation:flow 5.5s linear infinite reverse}.glow{animation:glow 2.6s ease-in-out infinite}@keyframes flow{to{stroke-dashoffset:-90}}@keyframes glow{0%,100%{opacity:.3}50%{opacity:.95}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="1098" height="298" rx="18" fill="url(#bg)" stroke="#33475f" stroke-width="2"/><rect x="1" y="1" width="1098" height="298" rx="18" fill="url(#grid)"/>
+<text x="31" y="33" class="m" font-size="14" fill="#88a5bb" letter-spacing="1">MY TECH ECOSYSTEM <tspan fill="#5ce5db">// PACKETS MOVING</tspan></text>
+<path d="M200 169V209H550V239M550 169V239M900 169V209H550" fill="none" stroke="#355065" stroke-width="3"/>
+<path d="M200 209H900" fill="none" stroke="#67e1d8" stroke-width="3" stroke-dasharray="6 18" class="flow"/>
+<path d="M550 171V240" fill="none" stroke="#b39cfa" stroke-width="3" stroke-dasharray="6 14" class="flow2"/>
+<rect x="31" y="53" width="329" height="116" rx="14" fill="#122e37" stroke="#3c7c83"/><rect x="386" y="53" width="329" height="116" rx="14" fill="#1b233d" stroke="#7e6ab7"/><rect x="741" y="53" width="329" height="116" rx="14" fill="#2a2533" stroke="#a17c58"/>
+<rect x="31" y="53" width="5" height="116" rx="2" fill="#5ae3dc"/><rect x="386" y="53" width="5" height="116" rx="2" fill="#b2a0fb"/><rect x="741" y="53" width="5" height="116" rx="2" fill="#f0c68f"/>
+<text x="54" y="79" class="m" font-size="13" fill="#73d6d1">01 / CLIENT</text><text x="54" y="117" font-size="29" font-weight="700" fill="#f4f9ff">MOBILE</text><text x="54" y="146" class="m" font-size="16" fill="#bbccdd">Flutter · Dart</text>
+<text x="409" y="79" class="m" font-size="13" fill="#b9a8f4">02 / ENGINE</text><text x="409" y="117" font-size="29" font-weight="700" fill="#f4f9ff">BACKEND</text><text x="409" y="146" class="m" font-size="16" fill="#b8c2da">FastAPI · Python</text>
+<text x="764" y="79" class="m" font-size="13" fill="#edc68e">03 / INTELLIGENCE</text><text x="764" y="117" font-size="29" font-weight="700" fill="#f4f9ff">APPLIED AI</text><text x="764" y="146" class="m" font-size="16" fill="#cabfce">LLM · RAG · Agents</text>
+<rect x="287" y="240" width="526" height="39" rx="11" fill="#102d37" stroke="#3e7580"/>
+<text x="550" y="266" text-anchor="middle" class="m" font-size="17" fill="#d4e7ee">POSTGRESQL  /  REDIS  /  DOCKER  /  FIREBASE</text>
+<circle cx="200" cy="209" r="5" fill="#64dfd8" class="glow"/><circle cx="550" cy="209" r="5" fill="#b5a2ff" class="glow"/><circle cx="900" cy="209" r="5" fill="#f0c68e" class="glow"/>
+</svg>
