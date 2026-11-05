@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+<title id="title">AhmetOS v2 - Developer Mission Control</title><desc id="desc">Animated terminal header for Ahmet Koca, backend and full-stack developer working with Flutter, FastAPI and applied AI.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09111E"/><stop offset=".55" stop-color="#0D1726"/><stop offset="1" stop-color="#11142A"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#37D7DC"/><stop offset=".55" stop-color="#877DF4"/><stop offset="1" stop-color="#37D7DC"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#27C7CD" stop-opacity=".18"/><stop offset="1" stop-color="#27C7CD" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#B7D5EB" stroke-opacity=".055" stroke-width="1"/></pattern>
+  <clipPath id="panel"><rect width="958" height="358" x="1" y="1" rx="22"/></clipPath>
+</defs>
+<style>
+  text{font-family:Arial,Helvetica,sans-serif}
+  .mono{font-family:Consolas,'Courier New',monospace}
+  .pulse{animation:pulse 2.8s ease-in-out infinite}
+  .cursor{animation:blink 1s steps(2,end) infinite}
+  .ring{animation:dash 15s linear infinite}
+  .dot{animation:float 4s ease-in-out infinite}
+  .travel{animation:travel 5s linear infinite}
+  @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+  @keyframes dash{to{stroke-dashoffset:-120}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+  @keyframes travel{0%{transform:translateX(-75px);opacity:0}25%{opacity:.7}85%{opacity:.7}100%{transform:translateX(75px);opacity:0}}
+  @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="1" y="1" width="958" height="358" rx="22" fill="url(#bg)" stroke="#2D4056" stroke-width="2"/>
+<g clip-path="url(#panel)">
+  <rect x="0" y="0" width="960" height="360" fill="url(#grid)"/>
+  <ellipse cx="792" cy="205" rx="245" ry="195" fill="url(#glow)"/>
+  <rect x="0" y="69" width="960" height="1" fill="#314258"/>
+  <rect x="0" y="357" width="960" height="3" fill="url(#edge)" opacity=".8"/>
+  <circle cx="32" cy="34" r="6" fill="#FF6678"/><circle cx="53" cy="34" r="6" fill="#F7BE52"/><circle cx="74" cy="34" r="6" fill="#4FD9A6"/>
+  <text x="99" y="39" class="mono" font-size="14" letter-spacing="1.5" fill="#B7C8DA">AHMET_OS <tspan fill="#53E1DC">// v2.0</tspan></text>
+  <text x="716" y="39" class="mono" font-size="12" fill="#95A9BF">DEVELOPER CONSOLE</text><circle cx="917" cy="34" r="5" fill="#4CE0A8" class="pulse"/>
+  <text x="49" y="108" class="mono" font-size="16" fill="#52DAD4">&gt; ./whoami --verbose</text>
+  <text x="46" y="166" font-size="52" font-weight="800" letter-spacing="1.2" fill="#F4F8FD">AHMET KOCA</text>
+  <text x="49" y="205" font-size="23" font-weight="700" letter-spacing="1.1" fill="#67E2DC">BACKEND <tspan fill="#91A1F8">/</tspan> FULL-STACK</text>
+  <text x="49" y="237" class="mono" font-size="15" fill="#B9C9DC">Flutter  <tspan fill="#7C91AB">/</tspan>  FastAPI  <tspan fill="#7C91AB">/</tspan>  Applied AI</text>
+  <text x="49" y="267" font-size="14" fill="#9EB2C7">Building products that connect ideas to real systems.</text>
+  <rect x="47" y="297" width="189" height="30" rx="15" fill="#10342E" stroke="#237B6A"/>
+  <circle cx="66" cy="312" r="4.5" fill="#53E1A4" class="pulse"/>
+  <text x="79" y="317" class="mono" font-size="12" fill="#A1F1D3" letter-spacing=".7">SYSTEM ONLINE</text>
+  <text x="252" y="317" class="mono" font-size="12" fill="#788EA9">ready to build<tspan class="cursor" fill="#58DDD5">_</tspan></text>
+  <line x1="610" y1="91" x2="610" y2="330" stroke="#40546D" stroke-opacity=".65"/>
+  <g transform="translate(782 205)">
+    <circle r="107" stroke="#2D4A64" fill="none" stroke-width="1"/>
+    <circle r="83" stroke="#438D9A" fill="none" stroke-dasharray="7 9" class="ring"/>
+    <circle r="60" stroke="#7C75B9" fill="none" stroke-width="1" stroke-dasharray="2 7"/>
+    <path d="M-82 0H82M0-81V81" stroke="#33516C" stroke-width="1"/>
+    <path d="M0 -80L70 40L-70 40Z" fill="#142C43" fill-opacity=".55" stroke="#67DDD7" stroke-width="2"/>
+    <circle cx="0" cy="-80" r="8" fill="#67DDD7"/><circle cx="70" cy="40" r="8" fill="#A692F4"/><circle cx="-70" cy="40" r="8" fill="#FFD17B"/>
+    <circle cx="0" cy="0" r="25" fill="#12263B" stroke="#6385A1"/><text x="0" y="6" text-anchor="middle" class="mono" font-size="16" fill="#EAF9F9" font-weight="700">AK</text>
+    <circle cx="0" cy="-80" r="15" fill="none" stroke="#67DDD7" opacity=".5" class="pulse"/>
+    <circle cx="70" cy="40" r="15" fill="none" stroke="#A692F4" opacity=".5" class="pulse"/>
+    <circle cx="-70" cy="40" r="15" fill="none" stroke="#FFD17B" opacity=".5" class="pulse"/>
+  </g>
+  <text x="657" y="100" class="mono" font-size="11" fill="#64E1D9">API READY</text>
+  <text x="823" y="117" class="mono" font-size="11" fill="#B6A2FB">AI ENABLED</text>
+  <text x="637" y="327" class="mono" font-size="11" fill="#FAD08C">MOBILE ONLINE</text>
+  <circle cx="682" cy="245" r="3" fill="#67DDD7" class="dot"/>
+</g></svg>
