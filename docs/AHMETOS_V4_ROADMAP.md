@@ -14,7 +14,7 @@ This branch is an incremental redesign of the GitHub profile. Keep `main` stable
 
 - [x] **Phase 1: Identity.** Introduce Byte and retitle the animated terminal as AhmetOS v4.
 - [x] **Phase 2: Skill Tree + Developer Journey.** Add a colorful animated skills network and a career checkpoint map, based on actual experience.
-- [ ] **Phase 3: Live project signals.** Add a permission-limited GitHub Actions workflow that regenerates a data panel from public GitHub commits. Check the default branch, API rate limits, permissions, missing data and failed jobs; show the date of last successful refresh. Do not include private repositories.
+- [x] **Phase 3: Live project signals.** Add a permission-limited GitHub Actions workflow that regenerates a data panel from public GitHub commits. Check the default branch, API rate limits, permissions, missing data and failed jobs; show the date of last successful refresh. Do not include private repositories.
 - [ ] **Phase 4: Easter eggs + release polish.** Add GitHub-safe expandable terminal surprises and achievements; validate color contrast, desktop/mobile views, broken links, reduced-motion experience, and readability.
 
 ## Current implementation
@@ -26,6 +26,16 @@ This branch is an incremental redesign of the GitHub profile. Keep `main` stable
 - `assets/ahmetos-v4/skill-tree.svg`: original animated four-branch skill tree describing documented technologies, without proficiency claims.
 - `assets/ahmetos-v4/developer-journey.svg`: original animated five-checkpoint career quest map with selected real experiences, not a dated chronology.
 - `README.md`: now includes both visuals and renumbers the sections to preserve reading order.
+
+## Phase 3 implementation
+
+- `assets/ahmetos-v4/activity-live.svg` is an initial public commit snapshot checked on 2026-11-06; it does not claim any automatic refresh has run yet.
+- `scripts/build_profile_activity.py` queries a fixed list of six public repositories owned by `AhmetKoca32`. It rejects nonpublic repositories and failures, filters merge and documentation commits, and shows the latest qualifying commit for each project.
+- `.github/workflows/profile-activity.yml` is scheduled daily at **07:17 UTC**, with a manual trigger and a code-change push trigger. It grants `contents: write` only to the refresh job to commit the generated SVG to `main`.
+- Once this PR is merged, the first successful workflow run can replace the initial static snapshot with a generated view containing its last successful generation timestamp.
+- If GitHub Actions permissions, branch protection, or API limits block a refresh, the previous SVG remains visible. The workflow cannot be tested as a scheduled job while this PR is still a draft and the workflow is absent from `main`.
+- Commit filtering is heuristic based on titles; repository-specific conventions can be refined after the first run. A maximum of 100 matching commits per repository is inspected, so this is not a lifetime activity count.
+- Public author filter uses GitHub's commit search by username; commits with no matching author identity are not claimed.
 
 ## Release checks
 
