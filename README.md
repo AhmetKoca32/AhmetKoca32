@@ -158,7 +158,52 @@ The checkpoints show **selected experiences**, not a precise dated chronology. S
 
 ---
 
-## `08 // TRANSMISSION`
+## `08 // SECRET LEVEL`
+
+<details>
+<summary><b>🎮 UNLOCK SECRET QUEST · Byte's hidden developer console</b></summary>
+
+<div align="center">
+
+<img src="assets/ahmetos-v4/secret-terminal.svg" width="100%" alt="Animated secret arcade terminal with fictional commands, glowing checkmark and achievement unlocked message" />
+
+<img src="assets/ahmetos-v4/arcade-powerups.svg" width="100%" alt="Three playful fictional power-ups: Debug Vision, Idea Engine and Ship Mode" />
+
+</div>
+
+```text
+byte@ahmetos:~$ ./mission --secret
+> CURIOSITY: DETECTED
+> DEBUG MODE: UNLOCKED
+> NEXT QUEST: BUILD SOMETHING USEFUL
+
+byte@ahmetos:~$ sudo hire ahmet
+> This is a joke command, not a real terminal.
+> Want a real conversation? Use the links below.
+```
+
+**Secret mission completed:** You found Byte's hidden arcade inventory. The power-ups are playful labels, not certifications or measurable GitHub scores.
+
+[Contact on LinkedIn](https://www.linkedin.com/in/ahmetkocaa/) · [Explore the projects](https://github.com/AhmetKoca32?tab=repositories)
+
+</details>
+
+<details>
+<summary><b>⌨️ BONUS COMMAND · cat /etc/ahmetos/manifesto</b></summary>
+
+```text
+$ cat /etc/ahmetos/manifesto
+Make it useful.
+Make it maintainable.
+Learn from the bugs.
+Ship, iterate, repeat.
+```
+
+</details>
+
+---
+
+## `09 // TRANSMISSION`
 
 <div align="center">
 <img src="assets/ahmetos-v3/transmission.svg" width="100%" alt="Animated closing panel: Let's build something useful, backend, full-stack and applied AI" />
