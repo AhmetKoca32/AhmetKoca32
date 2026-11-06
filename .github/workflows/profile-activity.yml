@@ -12,6 +12,8 @@ on:
       - 'assets/ahmetos-v3-arcade/**'
       - 'scripts/build_profile_activity.py'
       - 'tests/**'
+      - 'docs/AHMETOS_V4_ROADMAP.md'
+      - 'docs/AHMETOS_V4_QA.md'
       - '.github/workflows/profile-activity.yml'
   push:
     branches: [main]
