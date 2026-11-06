@@ -125,12 +125,26 @@ The checkpoints show **selected experiences**, not a precise dated chronology. S
 
 ---
 
-## `07 // CONTRIBUTION QUEST` 
+## `07 // PUBLIC ACTIVITY + CONTRIBUTION QUEST` 
 
 *XP isn't measured by invented counters. The contribution snake tells the story.*
 
 <div align="center">
 <img src="assets/ahmetos-v3/activity.svg" width="100%" alt="Visual developer focus panel for backend, applied AI and Flutter; not a live numeric statistics counter" />
+
+<img src="assets/ahmetos-v4/activity-live.svg" width="100%" alt="Verified public activity snapshot from six selected GitHub repositories, showing latest meaningful technical changes and their dates" />
+
+<sub>**Public activity dashboard:** Six public repositories, latest qualifying technical updates, and source commit identifiers. The initial snapshot was verified on 2026-11-06. Scheduled GitHub Actions refreshes begin only after this workflow reaches `main`; the refresh date will then be displayed inside the panel.</sub>
+
+<details>
+<summary><b>HOW THE ACTIVITY PANEL WORKS</b></summary>
+
+- Source: public GitHub API for [ZeroWaste](https://github.com/AhmetKoca32/zerowaste), [Shoplytic](https://github.com/AhmetKoca32/Shoplytic), [Stayzi](https://github.com/AhmetKoca32/Stayzi), [DermaScope](https://github.com/AhmetKoca32/AI-180), [ZoneRun](https://github.com/AhmetKoca32/ZoneRun), and [RAG Lab](https://github.com/AhmetKoca32/ChatBot_with_RAG).
+- Shows the latest qualifying non-merge, non-documentation commit in each project, with up to three recent updates highlighted.
+- Updated daily via [GitHub Actions](.github/workflows/profile-activity.yml), subject to repository workflow permissions and a successful run.
+- No private repositories, invented experience points, or fake GitHub totals. The panel is a selected public project activity feed, **not** a complete GitHub contribution counter.
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake-dark.svg" />
