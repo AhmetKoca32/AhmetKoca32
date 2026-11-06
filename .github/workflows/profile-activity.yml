@@ -1,0 +1,44 @@
+name: Refresh AhmetOS public activity
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build_profile_activity.py'
+      - '.github/workflows/profile-activity.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    if: github.repository == 'AhmetKoca32/AhmetKoca32'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Verify script syntax
+        run: python3 -m py_compile scripts/build_profile_activity.py
+      - name: Fetch public GitHub activity and generate SVG
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/build_profile_activity.py
+      - name: Commit latest public activity snapshot
+        run: |
+          git add assets/ahmetos-v4/activity-live.svg
+          if git diff --cached --quiet; then
+            echo 'No changed activity snapshot.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore(profile): refresh public activity [skip ci]'
+          git pull --rebase origin main
+          git push origin HEAD:main
