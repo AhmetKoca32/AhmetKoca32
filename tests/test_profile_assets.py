@@ -31,6 +31,23 @@ class ProfileAssetsTests(unittest.TestCase):
                 self.assertIn("role=\"img\"", markup)
                 self.assertIn("<title", markup)
 
+    def test_tech_marquee_seamless_loop(self):
+        path = V4_ASSETS / "tech-marquee.svg"
+        root = ET.parse(path).getroot()
+        ns = {"svg": "http://www.w3.org/2000/svg"}
+        tracks = [g for g in root.findall(".//svg:g", ns) if g.get("class") == "ticker-track"]
+        self.assertEqual(len(tracks), 1)
+        cards = tracks[0].findall("svg:g", ns)
+        self.assertEqual(len(cards), 14, "Seven tech cards must be duplicated for seamless motion")
+        positions = [int(re.search(r"translate\\((\\d+) 85\\)", card.get("transform")).group(1))
+                     for card in cards]
+        self.assertEqual(positions[7:], [x + 1190 for x in positions[:7]])
+        svg = path.read_text(encoding="utf-8")
+        self.assertIn("translateX(-1190px)", svg)
+        self.assertIn('clip-path="url(#marqueeWindow)"', svg)
+        self.assertIn("prefers-reduced-motion", svg)
+        self.assertIn("tech-marquee.svg", README.read_text(encoding="utf-8"))
+
     def test_profile_sections_are_sequential(self):
         readme = README.read_text(encoding="utf-8")
         section_nums = [int(n) for n in re.findall(r'^## `(\d\d) //', readme, flags=re.MULTILINE)]
