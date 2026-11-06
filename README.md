@@ -14,9 +14,25 @@
 
 **Backend & Full-Stack Developer** · Flutter · Applied AI · Creative Engineering
 
+<!-- REAL IDENTITY: existing archived profile artwork + current public GitHub avatar -->
+<table>
+  <tr>
+    <td width="74%" align="center" valign="middle">
+      <img src="Banner2.png" alt="Original personal GitHub banner from Ahmet's own repository" width="100%" />
+    </td>
+    <td width="26%" align="center" valign="middle">
+      <a href="https://github.com/AhmetKoca32">
+        <img src="https://avatars.githubusercontent.com/u/153125394?v=4" alt="Current AhmetKoca32 GitHub profile avatar" width="170" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 [<img src="assets/ahmetos-v3/contact-linkedin.svg" width="31%" alt="Open Ahmet's LinkedIn" />](https://www.linkedin.com/in/ahmetkocaa/)
 [<img src="assets/ahmetos-v3/contact-portfolio.svg" width="31%" alt="Open Ahmet's portfolio" />](https://ahmet-koca-portfolio.vercel.app/)
 [<img src="assets/ahmetos-v3/contact-email.svg" width="31%" alt="Send Ahmet an email" />](mailto:kocaahmetkoca32@gmail.com)
+
+<a href="https://medium.com/@ahmetkocaa"><img src="medium.png" width="25" alt="Medium logo" /></a> &nbsp; [**Medium / Writing**](https://medium.com/@ahmetkocaa)
 
 <sub>Computer Engineering graduate · Süleyman Demirel University · Türkiye</sub>
 
@@ -52,6 +68,18 @@ I build **Python/FastAPI services**, mobile apps with **Flutter**, and AI-enable
 <a href="https://github.com/AhmetKoca32/AI-180"><img src="assets/ahmetos-v3/mission-dermascope.svg" width="49%" alt="DermaScope mission" /></a>
 <a href="https://github.com/AhmetKoca32/ZoneRun"><img src="assets/ahmetos-v3/mission-zonerun.svg" width="49%" alt="ZoneRun mission" /></a>
 <a href="https://github.com/AhmetKoca32/ChatBot_with_RAG"><img src="assets/ahmetos-v3/mission-rag.svg" width="49%" alt="RAG chatbot mission" /></a>
+</div>
+
+### REAL PROJECT SIGNAL // ZEROWASTE KITCHEN
+
+<div align="center">
+
+<a href="https://github.com/AhmetKoca32/zerowaste">
+  <img src="https://raw.githubusercontent.com/AhmetKoca32/zerowaste/main/play-store-assets/atiksiz-mutfak-feature-graphic-1024x500.png" width="78%" alt="Original ZeroWaste Kitchen promotional feature graphic from the project's public Play Store assets" />
+</a>
+
+<sub>Actual project artwork sourced from the public ZeroWaste repository. This is a promotional graphic, not an in-app screenshot.</sub>
+
 </div>
 
 <details>
