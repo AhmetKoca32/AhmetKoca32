@@ -39,6 +39,12 @@ $ git status --short
 
 I build **Python/FastAPI services**, mobile apps with **Flutter**, and AI-enabled experiences that solve practical problems. I enjoy taking features from an idea through architecture, integration, testing, and reliable delivery.
 
+<div align="center">
+
+<img src="assets/ahmetos-v4/tech-marquee.svg" width="100%" alt="Seamlessly scrolling neon technology cards for Python, FastAPI, Flutter, PostgreSQL, Docker, Redis, and RAG / AI" />
+
+</div>
+
 ---
 
 ## `02 // SELECT YOUR MISSION` 
