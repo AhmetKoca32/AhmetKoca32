@@ -14,16 +14,17 @@
 
 **Backend & Full-Stack Developer** · Flutter · Applied AI · Creative Engineering
 
-<!-- REAL IDENTITY: existing archived profile artwork + current public GitHub avatar -->
+<!-- REAL IDENTITY: original banner + Ahmet's actual computer engineering graduation photo -->
 <table>
   <tr>
-    <td width="74%" align="center" valign="middle">
-      <img src="Banner2.png" alt="Original personal GitHub banner from Ahmet's own repository" width="100%" />
+    <td width="65%" align="center" valign="middle">
+      <img src="Banner2.png" alt="Ahmet's original personal GitHub banner" width="100%" />
     </td>
-    <td width="26%" align="center" valign="middle">
-      <a href="https://github.com/AhmetKoca32">
-        <img src="https://avatars.githubusercontent.com/u/153125394?v=4" alt="Current AhmetKoca32 GitHub profile avatar" width="170" />
+    <td width="35%" align="center" valign="middle">
+      <a href="assets/ahmetos-v4/real-photo.webp">
+        <img src="assets/ahmetos-v4/real-photo.webp" alt="Ahmet at his Computer Engineering graduation, holding the department sign" width="190" />
       </a>
+      <sub>Computer Engineering · Graduation</sub>
     </td>
   </tr>
 </table>
