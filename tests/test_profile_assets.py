@@ -39,7 +39,7 @@ class ProfileAssetsTests(unittest.TestCase):
         self.assertEqual(len(tracks), 1)
         cards = tracks[0].findall("svg:g", ns)
         self.assertEqual(len(cards), 14, "Seven tech cards must be duplicated for seamless motion")
-        positions = [int(re.search(r"translate\\((\\d+) 85\\)", card.get("transform")).group(1))
+        positions = [int(re.search(r"translate\((\d+) 85\)", card.get("transform")).group(1))
                      for card in cards]
         self.assertEqual(positions[7:], [x + 1190 for x in positions[:7]])
         svg = path.read_text(encoding="utf-8")
