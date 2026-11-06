@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-labelledby="title desc">
+<title id="title">AhmetOS animated technology marquee</title>
+<desc id="desc">A seamless horizontal strip of seven colorful neon technology cards scrolling across the screen: Python, FastAPI, Flutter, PostgreSQL, Docker, Redis, and RAG / AI.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2=".3"><stop stop-color="#0E1930"/><stop offset=".58" stop-color="#151A34"/><stop offset="1" stop-color="#23172E"/></linearGradient>
+<linearGradient id="borderGradient" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58DCD8"/><stop offset=".5" stop-color="#9EA4F8"/><stop offset="1" stop-color="#CE91EF"/></linearGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" stroke="#B9C9EF" stroke-opacity=".045" fill="none"/></pattern>
+<clipPath id="marqueeWindow"><rect x="18" y="80" width="1064" height="73" rx="12"/></clipPath>
+</defs>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}
+.ticker-track{animation:marquee 25s linear infinite}
+.led{animation:glimmer 3.2s ease-in-out infinite}
+.status{animation:glimmer 2.1s ease-in-out infinite}
+@keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-1190px)}}
+@keyframes glimmer{0%,100%{opacity:.65}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.ticker-track,.led,.status{animation:none!important}}
+</style>
+<rect x="1.25" y="1.25" width="1097.5" height="217.5" rx="19" fill="url(#bg)" stroke="#43587A" stroke-width="2"/>
+<rect x="3" y="3" width="1094" height="214" rx="17" fill="url(#grid)"/>
+<path d="M20 2.75H1080" stroke="url(#borderGradient)" stroke-width="2.5" stroke-linecap="round" opacity=".68"/>
+<text x="31" y="43" class="mono" font-size="18" letter-spacing="2" fill="#96B9DB">TECHNOLOGIES LOADED</text>
+<circle cx="299" cy="37" r="6" fill="#5DEADC" class="status"/>
+<text x="1068" y="41" text-anchor="end" class="mono" font-size="12" fill="#9AAED2" letter-spacing="1">STACK // 07 MODULES</text>
+<path d="M27 70H1073" stroke="#30415C" stroke-width="1.5"/>
+<g clip-path="url(#marqueeWindow)">
+<g class="ticker-track">
+<g transform="translate(34 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#FFCE72" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#FFCE72" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">Python</text>
+</g>
+<g transform="translate(204 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#48E2B5" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#48E2B5" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">FastAPI</text>
+</g>
+<g transform="translate(374 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#72BBFF" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#72BBFF" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">Flutter</text>
+</g>
+<g transform="translate(544 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#979FFB" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#979FFB" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="18.5" font-weight="700">PostgreSQL</text>
+</g>
+<g transform="translate(714 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#D89CFF" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#D89CFF" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">Docker</text>
+</g>
+<g transform="translate(884 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#FF8FAC" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#FF8FAC" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">Redis</text>
+</g>
+<g transform="translate(1054 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#7DEBE2" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#7DEBE2" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">RAG / AI</text>
+</g><g transform="translate(1224 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#FFCE72" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#FFCE72" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">Python</text>
+</g>
+<g transform="translate(1394 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#48E2B5" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#48E2B5" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">FastAPI</text>
+</g>
+<g transform="translate(1564 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#72BBFF" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#72BBFF" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">Flutter</text>
+</g>
+<g transform="translate(1734 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#979FFB" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#979FFB" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="18.5" font-weight="700">PostgreSQL</text>
+</g>
+<g transform="translate(1904 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#D89CFF" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#D89CFF" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">Docker</text>
+</g>
+<g transform="translate(2074 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#FF8FAC" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#FF8FAC" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">Redis</text>
+</g>
+<g transform="translate(2244 85)">
+<rect x="0.75" y="0.75" width="152.5" height="63.5" rx="15" fill="#1C2A46" stroke="#435879" stroke-width="1.5"/>
+<rect x="14" y="19" width="29" height="29" rx="9" fill="#7DEBE2" opacity=".13"/>
+<rect x="18" y="23" width="21" height="21" rx="6" fill="#7DEBE2" class="led"/>
+<text x="50" y="42" fill="#EAF2FE" font-size="21" font-weight="700">RAG / AI</text>
+</g>
+</g>
+</g>
+<path d="M27 168H1073" stroke="#324760" stroke-width="1.2" opacity=".55"/>
+<text x="550" y="197" text-anchor="middle" class="mono" font-size="15" fill="#8A9FC2" letter-spacing="1.1">BUILD  ·  TEST  ·  SHIP  ·  REPEAT</text>
+</svg>
