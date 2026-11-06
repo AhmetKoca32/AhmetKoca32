@@ -31,7 +31,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Unit tests for public activity panel
-        run: python3 -m unittest discover -s tests -p 'test_profile_*.py' -v
+        run: python3 -m unittest discover -s tests -p 'test_*.py' -v
 
   refresh:
     if: github.event_name != 'pull_request' && github.repository == 'AhmetKoca32/AhmetKoca32'
