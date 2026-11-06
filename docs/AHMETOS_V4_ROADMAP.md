@@ -1,0 +1,57 @@
+# AhmetOS v4 — Pixel Arcade Developer World
+
+This branch is an incremental redesign of the GitHub profile. Keep `main` stable until the v4 release is reviewed.
+
+## Design direction
+
+- Retain the colorful Neon Arcade interface and genuine repository links.
+- Introduce **Byte**, a friendly animated pixel-art robot, as the profile mascot.
+- Use self-contained SVG and GitHub-compatible Markdown. No JavaScript is executed in GitHub READMEs.
+- Respect `prefers-reduced-motion` in any animated SVG.
+- Never invent GitHub activity counts, project milestones, skills, or achievements.
+
+## Development phases
+
+- [x] **Phase 1: Identity.** Introduce Byte and retitle the animated terminal as AhmetOS v4.
+- [x] **Phase 2: Skill Tree + Developer Journey.** Add a colorful animated skills network and a career checkpoint map, based on actual experience.
+- [x] **Phase 3: Live project signals.** Add a permission-limited GitHub Actions workflow that regenerates a data panel from public GitHub commits. Check the default branch, API rate limits, permissions, missing data and failed jobs; show the date of last successful refresh. Do not include private repositories.
+- [x] **Phase 4: Easter eggs + release polish.** Add GitHub-safe expandable terminal surprises and achievements; validate color contrast, desktop/mobile views, broken links, reduced-motion experience, and readability.
+
+## Current implementation
+
+- `assets/ahmetos-v4/hero.svg`: v4 animated terminal masthead.
+- `assets/ahmetos-v4/byte-mascot.svg`: original self-contained pixel-art mascot, with wave, blink, bob, and twinkling background.
+- `README.md`: introduces Byte while keeping six project cards, contact buttons, existing neon marquee, architecture, and contribution snake.
+
+- `assets/ahmetos-v4/skill-tree.svg`: original animated four-branch skill tree describing documented technologies, without proficiency claims.
+- `assets/ahmetos-v4/developer-journey.svg`: original animated five-checkpoint career quest map with selected real experiences, not a dated chronology.
+- `README.md`: now includes both visuals and renumbers the sections to preserve reading order.
+
+## Phase 3 implementation
+
+- `assets/ahmetos-v4/activity-live.svg` is an initial public commit snapshot checked on 2026-11-06; it does not claim any automatic refresh has run yet.
+- `scripts/build_profile_activity.py` queries a fixed list of six public repositories owned by `AhmetKoca32`. It rejects nonpublic repositories and failures, filters merge and documentation commits, and shows the latest qualifying commit for each project.
+- `.github/workflows/profile-activity.yml` is scheduled daily at **07:17 UTC**, with a manual trigger and a code-change push trigger. It grants `contents: write` only to the refresh job to commit the generated SVG to `main`.
+- Once this PR is merged, the first successful workflow run can replace the initial static snapshot with a generated view containing its last successful generation timestamp.
+- If GitHub Actions permissions, branch protection, or API limits block a refresh, the previous SVG remains visible. The workflow cannot be tested as a scheduled job while this PR is still a draft and the workflow is absent from `main`.
+- Commit filtering is heuristic based on titles; repository-specific conventions can be refined after the first run. A maximum of 100 matching commits per repository is inspected, so this is not a lifetime activity count.
+- Public author filter uses GitHub's commit search by username; commits with no matching author identity are not claimed.
+
+## Phase 4 implementation
+
+- `assets/ahmetos-v4/secret-terminal.svg`: animated fictional Byte terminal shown only after opening a native `<details>` section.
+- `assets/ahmetos-v4/arcade-powerups.svg`: animated, explicitly fictional power-ups with non-numeric labels.
+- `README.md`: new `08 // SECRET LEVEL` with two expandable areas; transmission is now `09 // TRANSMISSION`.
+- `tests/test_profile_assets.py`: static checks for linked local assets, SVG XML validity, accessible SVG titles, reduced-motion rules, and consistent section order.
+- `.github/workflows/profile-activity.yml`: PR validation runs both activity tests and all new asset checks when README, docs, SVGs or source change.
+- `docs/AHMETOS_V4_QA.md`: release QA status and explicitly unverified visual checks.
+
+**Implementation of all four phases is complete.** The PR still awaits final visual review and merge. The first live data refresh cannot be validated until the workflow reaches the default branch.
+
+## Release checks
+
+1. Render the GitHub README preview and verify all new SVGs load.
+2. Open the profile in GitHub light and dark modes; check a narrow mobile viewport.
+3. Confirm social links and all project links are correct.
+4. Verify motion works where GitHub allows it, but the static state remains understandable.
+5. Merge only after reviewing the complete v4 changes.

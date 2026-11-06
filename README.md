@@ -1,10 +1,16 @@
 <div align="center">
 
 <a href="https://github.com/AhmetKoca32">
-  <img src="assets/ahmetos-v3/hero.svg" width="100%" alt="AhmetOS v3, animated terminal and developer mission control for Ahmet Koca" />
+  <img src="assets/ahmetos-v4/hero.svg" width="100%" alt="AhmetOS v4 animated terminal and pixel arcade developer world for Ahmet Koca" />
 </a>
 
 <img src="assets/ahmetos-v3-arcade/neon-marquee.svg" width="100%" alt="Colorful animated arcade banner: Explore, Create, Deploy, Repeat" />
+
+<img src="assets/ahmetos-v4/byte-mascot.svg" width="230" alt="Byte, the animated AhmetOS coding mascot waving and blinking" />
+
+### MEET BYTE · YOUR CODING SIDEKICK
+
+*Pixel-perfect? Probably not. Curious and always building? Absolutely.*
 
 **Backend & Full-Stack Developer** · Flutter · Applied AI · Creative Engineering
 
@@ -66,7 +72,27 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `03 // LIVE DATA FLOW`
+## `03 // SKILL TREE`
+
+<div align="center">
+<img src="assets/ahmetos-v4/skill-tree.svg" width="100%" alt="Animated skill tree with backend engineering, applied AI, Flutter mobile and delivery branches" />
+</div>
+
+> Every branch represents technologies explored in real projects. These are not invented proficiency scores or game levels.
+
+---
+
+## `04 // DEVELOPER JOURNEY`
+
+<div align="center">
+<img src="assets/ahmetos-v4/developer-journey.svg" width="100%" alt="Animated quest map of selected career chapters: SDU graduation, DermaScope, STING, Erasmus+ ZeroWaste and future backend AI development" />
+</div>
+
+The checkpoints show **selected experiences**, not a precise dated chronology. Some are team projects, and the final checkpoint represents a direction I'm working toward.
+
+---
+
+## `05 // LIVE DATA FLOW`
 
 <div align="center">
 <img src="assets/ahmetos-v3/architecture.svg" width="100%" alt="Animated ecosystem showing Flutter, FastAPI and AI components connected to data infrastructure" />
@@ -87,7 +113,7 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `04 // ACHIEVEMENTS UNLOCKED`
+## `06 // ACHIEVEMENTS UNLOCKED`
 
 <div align="center">
 <img src="assets/ahmetos-v3-arcade/achievements.svg" width="100%" alt="Erasmus Plus, TÜBİTAK STAR and AI Bootcamp development experience" />
@@ -99,12 +125,26 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `05 // CONTRIBUTION QUEST` 
+## `07 // PUBLIC ACTIVITY + CONTRIBUTION QUEST` 
 
 *XP isn't measured by invented counters. The contribution snake tells the story.*
 
 <div align="center">
 <img src="assets/ahmetos-v3/activity.svg" width="100%" alt="Visual developer focus panel for backend, applied AI and Flutter; not a live numeric statistics counter" />
+
+<img src="assets/ahmetos-v4/activity-live.svg" width="100%" alt="Verified public activity snapshot from six selected GitHub repositories, showing latest meaningful technical changes and their dates" />
+
+<sub>**Public activity dashboard:** Six public repositories, latest qualifying technical updates, and source commit identifiers. The initial snapshot was verified on 2026-11-06. Scheduled GitHub Actions refreshes begin only after this workflow reaches `main`; the refresh date will then be displayed inside the panel.</sub>
+
+<details>
+<summary><b>HOW THE ACTIVITY PANEL WORKS</b></summary>
+
+- Source: public GitHub API for [ZeroWaste](https://github.com/AhmetKoca32/zerowaste), [Shoplytic](https://github.com/AhmetKoca32/Shoplytic), [Stayzi](https://github.com/AhmetKoca32/Stayzi), [DermaScope](https://github.com/AhmetKoca32/AI-180), [ZoneRun](https://github.com/AhmetKoca32/ZoneRun), and [RAG Lab](https://github.com/AhmetKoca32/ChatBot_with_RAG).
+- Shows the latest qualifying non-merge, non-documentation commit in each project, with up to three recent updates highlighted.
+- Updated daily via [GitHub Actions](.github/workflows/profile-activity.yml), subject to repository workflow permissions and a successful run.
+- No private repositories, invented experience points, or fake GitHub totals. The panel is a selected public project activity feed, **not** a complete GitHub contribution counter.
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmetKoca32/AhmetKoca32/output/github-contribution-grid-snake-dark.svg" />
@@ -118,7 +158,52 @@ These projects include team, research and learning prototypes. See each reposito
 
 ---
 
-## `06 // TRANSMISSION`
+## `08 // SECRET LEVEL`
+
+<details>
+<summary><b>🎮 UNLOCK SECRET QUEST · Byte's hidden developer console</b></summary>
+
+<div align="center">
+
+<img src="assets/ahmetos-v4/secret-terminal.svg" width="100%" alt="Animated secret arcade terminal with fictional commands, glowing checkmark and achievement unlocked message" />
+
+<img src="assets/ahmetos-v4/arcade-powerups.svg" width="100%" alt="Three playful fictional power-ups: Debug Vision, Idea Engine and Ship Mode" />
+
+</div>
+
+```text
+byte@ahmetos:~$ ./mission --secret
+> CURIOSITY: DETECTED
+> DEBUG MODE: UNLOCKED
+> NEXT QUEST: BUILD SOMETHING USEFUL
+
+byte@ahmetos:~$ sudo hire ahmet
+> This is a joke command, not a real terminal.
+> Want a real conversation? Use the links below.
+```
+
+**Secret mission completed:** You found Byte's hidden arcade inventory. The power-ups are playful labels, not certifications or measurable GitHub scores.
+
+[Contact on LinkedIn](https://www.linkedin.com/in/ahmetkocaa/) · [Explore the projects](https://github.com/AhmetKoca32?tab=repositories)
+
+</details>
+
+<details>
+<summary><b>⌨️ BONUS COMMAND · cat /etc/ahmetos/manifesto</b></summary>
+
+```text
+$ cat /etc/ahmetos/manifesto
+Make it useful.
+Make it maintainable.
+Learn from the bugs.
+Ship, iterate, repeat.
+```
+
+</details>
+
+---
+
+## `09 // TRANSMISSION`
 
 <div align="center">
 <img src="assets/ahmetos-v3/transmission.svg" width="100%" alt="Animated closing panel: Let's build something useful, backend, full-stack and applied AI" />
@@ -127,6 +212,6 @@ These projects include team, research and learning prototypes. See each reposito
 [<img src="assets/ahmetos-v3/contact-portfolio.svg" width="31%" alt="Portfolio website link" />](https://ahmet-koca-portfolio.vercel.app/)
 [<img src="assets/ahmetos-v3/contact-email.svg" width="31%" alt="Email contact link" />](mailto:kocaahmetkoca32@gmail.com)
 
-<sub>AHMETOS V3.1 NEON ARCADE · Original SVG animations · Reduced-motion support · No fragile badge or third-party statistics image dependencies.</sub>
+<sub>AHMETOS V4.0 PIXEL ARCADE · Original SVG animations · Reduced-motion support · No fragile badge or third-party statistics image dependencies.</sub>
 
 </div>
