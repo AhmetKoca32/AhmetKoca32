@@ -6,8 +6,12 @@ on:
   workflow_dispatch:
   pull_request:
     paths:
+      - 'README.md'
+      - 'assets/ahmetos-v4/**'
+      - 'assets/ahmetos-v3/**'
+      - 'assets/ahmetos-v3-arcade/**'
       - 'scripts/build_profile_activity.py'
-      - 'tests/test_profile_activity.py'
+      - 'tests/**'
       - '.github/workflows/profile-activity.yml'
   push:
     branches: [main]
@@ -25,7 +29,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Unit tests for public activity panel
-        run: python3 -m unittest discover -s tests -p 'test_profile_activity.py' -v
+        run: python3 -m unittest discover -s tests -p 'test_profile_*.py' -v
 
   refresh:
     if: github.event_name != 'pull_request' && github.repository == 'AhmetKoca32/AhmetKoca32'
