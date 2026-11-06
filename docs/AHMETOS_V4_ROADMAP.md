@@ -15,7 +15,7 @@ This branch is an incremental redesign of the GitHub profile. Keep `main` stable
 - [x] **Phase 1: Identity.** Introduce Byte and retitle the animated terminal as AhmetOS v4.
 - [x] **Phase 2: Skill Tree + Developer Journey.** Add a colorful animated skills network and a career checkpoint map, based on actual experience.
 - [x] **Phase 3: Live project signals.** Add a permission-limited GitHub Actions workflow that regenerates a data panel from public GitHub commits. Check the default branch, API rate limits, permissions, missing data and failed jobs; show the date of last successful refresh. Do not include private repositories.
-- [ ] **Phase 4: Easter eggs + release polish.** Add GitHub-safe expandable terminal surprises and achievements; validate color contrast, desktop/mobile views, broken links, reduced-motion experience, and readability.
+- [x] **Phase 4: Easter eggs + release polish.** Add GitHub-safe expandable terminal surprises and achievements; validate color contrast, desktop/mobile views, broken links, reduced-motion experience, and readability.
 
 ## Current implementation
 
@@ -36,6 +36,17 @@ This branch is an incremental redesign of the GitHub profile. Keep `main` stable
 - If GitHub Actions permissions, branch protection, or API limits block a refresh, the previous SVG remains visible. The workflow cannot be tested as a scheduled job while this PR is still a draft and the workflow is absent from `main`.
 - Commit filtering is heuristic based on titles; repository-specific conventions can be refined after the first run. A maximum of 100 matching commits per repository is inspected, so this is not a lifetime activity count.
 - Public author filter uses GitHub's commit search by username; commits with no matching author identity are not claimed.
+
+## Phase 4 implementation
+
+- `assets/ahmetos-v4/secret-terminal.svg`: animated fictional Byte terminal shown only after opening a native `<details>` section.
+- `assets/ahmetos-v4/arcade-powerups.svg`: animated, explicitly fictional power-ups with non-numeric labels.
+- `README.md`: new `08 // SECRET LEVEL` with two expandable areas; transmission is now `09 // TRANSMISSION`.
+- `tests/test_profile_assets.py`: static checks for linked local assets, SVG XML validity, accessible SVG titles, reduced-motion rules, and consistent section order.
+- `.github/workflows/profile-activity.yml`: PR validation runs both activity tests and all new asset checks when README, docs, SVGs or source change.
+- `docs/AHMETOS_V4_QA.md`: release QA status and explicitly unverified visual checks.
+
+**Implementation of all four phases is complete.** The PR still awaits final visual review and merge. The first live data refresh cannot be validated until the workflow reaches the default branch.
 
 ## Release checks
 
