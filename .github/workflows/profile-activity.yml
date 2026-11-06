@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '17 7 * * *'
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/build_profile_activity.py'
+      - 'tests/test_profile_activity.py'
+      - '.github/workflows/profile-activity.yml'
   push:
     branches: [main]
     paths:
@@ -14,8 +19,16 @@ permissions:
   contents: read
 
 jobs:
+  validate:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unit tests for public activity panel
+        run: python3 -m unittest discover -s tests -p 'test_profile_activity.py' -v
+
   refresh:
-    if: github.repository == 'AhmetKoca32/AhmetKoca32'
+    if: github.event_name != 'pull_request' && github.repository == 'AhmetKoca32/AhmetKoca32'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
